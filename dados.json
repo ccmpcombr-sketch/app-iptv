@@ -9,29 +9,15 @@
   "categorias": {
     "aovivo": [
       {
-        "album": "FILMES E SÉRIES",
-        "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
+        "album": "Canais Abertos",
+        "capa": "https://...",
         "itens": [
           {
-            "nome": "A&E",
-            "url": "http://vrpro.fun:80/{user}/{pass}/208146.m3u8"
-          },
-          {
-            "nome": "AMC",
-            "url": "http://vrpro.fun:80/{user}/{pass}/208151.m3u8"
-          },
-          {
-            "nome": "CANAL SONY",
-            "url": "http://vrpro.fun:80/{user}/{pass}/101980.m3u8"
-          },
-          {
-            "nome": "CINEMAX",
-            "url": "http://vrpro.fun:80/{user}/{pass}/727325.m3u8"
+            "nome": "Globo",
+            "url": "http://..."
           }
         ]
       }
-    ],
-    "filmes": [],
-    "series": []
+    ]
   }
 }
