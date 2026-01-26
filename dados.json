@@ -1,5 +1,11 @@
 {
-  "usuarios": [],
+  "usuarios": [
+    {
+      "login": "adriano",
+      "senha": "1234",
+      "foto": "https://site.com/foto.png"
+    }
+  ],
   "categorias": {
     "aovivo": [
       {
