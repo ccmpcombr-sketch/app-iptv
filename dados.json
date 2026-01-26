@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "login": "adriano",
+      "senha": "1234",
+      "foto": "https://i.imgur.com/8Km9tLL.png"
+    }
+  ],
+
+  "categorias": {
+    "aovivo": [
+      {
+        "album": "Canais Abertos",
+        "capa": "https://via.placeholder.com/160x180.png?text=AOVIVO",
+        "itens": [
+          {
+            "nome": "Canal Exemplo",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        ]
+      }
+    ],
+
+    "filmes": [
+      {
+        "album": "Filmes Teste",
+        "capa": "https://via.placeholder.com/160x180.png?text=FILMES",
+        "itens": [
+          {
+            "nome": "Filme Exemplo",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+          }
+        ]
+      }
+    ],
+
+    "series": []
+  }
+}
