@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "login": "Thamires",
-      "senha": "1234",
+      "login": "ThamiresPelentir",
+      "senha": "366028",
       "foto": "https://site.com/foto.png"
     }
   ],
@@ -14,19 +14,19 @@
         "itens": [
           {
             "nome": "A&E",
-            "url": "http://vrpro.fun:80/Thamires/1234/208146.m3u8"
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208146.m3u8"
           },
           {
             "nome": "AMC",
-            "url": "http://vrpro.fun:80/Thamires/1234/208151.m3u8"
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208151.m3u8"
           },
           {
             "nome": "CANAL SONY",
-            "url": "http://vrpro.fun:80/Thamires/1234/101980.m3u8"
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101980.m3u8"
           },
           {
             "nome": "CINEMAX",
-            "url": "http://vrpro.fun:80/Thamires/1234/727325.m3u8"
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727325.m3u8"
           }
         ]
       }
