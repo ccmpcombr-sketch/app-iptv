@@ -1,39 +1,31 @@
 {
-  "usuarios": [
-    {
-      "login": "adriano",
-      "senha": "1234",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
-    }
-  ],
-
+  "usuarios": [],
   "categorias": {
     "aovivo": [
       {
-        "album": "Canais Abertos",
-        "capa": "https://via.placeholder.com/160x180.png?text=AOVIVO",
+        "album": "FILMES E SÉRIES",
+        "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
         "itens": [
           {
-            "nome": "Canal Exemplo",
-            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+            "nome": "A&E",
+            "url": "http://vrpro.fun:80/{user}/{pass}/208146.m3u8"
+          },
+          {
+            "nome": "AMC",
+            "url": "http://vrpro.fun:80/{user}/{pass}/208151.m3u8"
+          },
+          {
+            "nome": "CANAL SONY",
+            "url": "http://vrpro.fun:80/{user}/{pass}/101980.m3u8"
+          },
+          {
+            "nome": "CINEMAX",
+            "url": "http://vrpro.fun:80/{user}/{pass}/727325.m3u8"
           }
         ]
       }
     ],
-
-    "filmes": [
-      {
-        "album": "Filmes Teste",
-        "capa": "https://via.placeholder.com/160x180.png?text=FILMES",
-        "itens": [
-          {
-            "nome": "Filme Exemplo",
-            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-          }
-        ]
-      }
-    ],
-
+    "filmes": [],
     "series": []
   }
 }
