@@ -9,15 +9,17 @@
   "categorias": {
     "aovivo": [
       {
-        "album": "Canais Abertos",
-        "capa": "https://...",
+        "album": "FILMES E SÉRIES",
+        "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
         "itens": [
           {
-            "nome": "Globo",
-            "url": "http://..."
+            "nome": "A&E",
+            "url": "http://vrpro.fun:80/adriano/1234/208146.m3u8"
           }
         ]
       }
-    ]
+    ],
+    "filmes": [],
+    "series": []
   }
 }
