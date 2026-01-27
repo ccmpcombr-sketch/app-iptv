@@ -1,3 +1,4 @@
+Gerar JSON
 {
   "usuarios": [
     {
@@ -553,6 +554,62 @@
           {
             "nome": "GOAT 4",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785282.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "HBO",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/hbo.png",
+        "itens": [
+          {
+            "nome": "HBO",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784732.m3u8"
+          },
+          {
+            "nome": "HBO 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784726.m3u8"
+          },
+          {
+            "nome": "HBO FAMILY",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784729.m3u8"
+          },
+          {
+            "nome": "HBO MUNDI",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784733.m3u8"
+          },
+          {
+            "nome": "HBO POP",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784736.m3u8"
+          },
+          {
+            "nome": "HBO SIGNATURE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784740.m3u8"
+          },
+          {
+            "nome": "HBO XTREME",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784743.m3u8"
+          },
+          {
+            "nome": "HBO+",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784746.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "MAX",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/max.png",
+        "itens": [
+          {
+            "nome": "MAX 01",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776562.m3u8"
+          },
+          {
+            "nome": "MAX 02",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776563.m3u8"
+          },
+          {
+            "nome": "MAX 03",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776564.m3u8"
           }
         ]
       }
