@@ -373,6 +373,72 @@
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94572.m3u8"
           }
         ]
+      },
+      {
+        "album": "CINE SKY",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/cine%20sky.png",
+        "itens": [
+          {
+            "nome": "CINE SKY 01",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456091.m3u8"
+          },
+          {
+            "nome": "CINE SKY 02",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456092.m3u8"
+          },
+          {
+            "nome": "CINE SKY 03",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456093.m3u8"
+          },
+          {
+            "nome": "CINE SKY 04",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456094.m3u8"
+          },
+          {
+            "nome": "CINE SKY 05",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456095.m3u8"
+          },
+          {
+            "nome": "CINE SKY 06",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456096.m3u8"
+          },
+          {
+            "nome": "CINE SKY 07",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456097.m3u8"
+          },
+          {
+            "nome": "CINE SKY 08",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456098.m3u8"
+          },
+          {
+            "nome": "CINE SKY 09",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456099.m3u8"
+          },
+          {
+            "nome": "CINE SKY 10",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456100.m3u8"
+          },
+          {
+            "nome": "CINE SKY 11",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456101.m3u8"
+          },
+          {
+            "nome": "CINE SKY 12",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456102.m3u8"
+          },
+          {
+            "nome": "CINE SKY 13",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456103.m3u8"
+          },
+          {
+            "nome": "CINE SKY 14",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456104.m3u8"
+          },
+          {
+            "nome": "CINE SKY 15",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456090.m3u8"
+          }
+        ]
       }
     ],
     "filmes": [],
