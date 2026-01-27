@@ -231,10 +231,6 @@
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479525.m3u8"
           },
           {
-            "nome": "ARTE 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479525.m3u8"
-          },
-          {
             "nome": "AXN",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100711.m3u8"
           },
@@ -293,6 +289,32 @@
           {
             "nome": "SABOR & ARTE",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479599.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "ESPORTES",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/esportes%2001.png",
+        "itens": [
+          {
+            "nome": "BAND SPORTS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101014.m3u8"
+          },
+          {
+            "nome": "CAZE TV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785274.m3u8"
+          },
+          {
+            "nome": "COMBATE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101020.m3u8"
+          },
+          {
+            "nome": "GE TV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3558792.m3u8"
+          },
+          {
+            "nome": "OFF",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101021.m3u8"
           }
         ]
       }
