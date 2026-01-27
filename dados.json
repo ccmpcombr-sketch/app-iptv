@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
+      "login": "ThamiresPelentir",
       "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png"
     }
@@ -437,6 +437,74 @@
           {
             "nome": "CINE SKY 15",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456090.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "DISCOVERY",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/dicovery.png",
+        "itens": [
+          {
+            "nome": "DISCOVERY CHANNEL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/196487.m3u8"
+          },
+          {
+            "nome": "DISCOVERY  THEATHER",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479327.m3u8"
+          },
+          {
+            "nome": "DISCOVERY H&H",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100726.m3u8"
+          },
+          {
+            "nome": "DISCOVERY ID",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/92128.m3u8"
+          },
+          {
+            "nome": "DISCOVERY SCIENCE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208159.m3u8"
+          },
+          {
+            "nome": "DISCOVERY TURBO",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/92134.m3u8"
+          },
+          {
+            "nome": "DISCOVERY WORLD",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/92138.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "DISNEY+",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/disney%2B.png",
+        "itens": [
+          {
+            "nome": "DISNEY+ 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785296.m3u8"
+          },
+          {
+            "nome": "DISNEY+ 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3518801.m3u8"
+          },
+          {
+            "nome": "DISNEY+ 3",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3518802.m3u8"
+          },
+          {
+            "nome": "DISNEY+ 4",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785297.m3u8"
+          },
+          {
+            "nome": "DISNEY+ 5",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431394.m3u8"
+          },
+          {
+            "nome": "DISNEY+ 6",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431395.m3u8"
+          },
+          {
+            "nome": "DISNEY+ 7",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431393.m3u8"
           }
         ]
       }
