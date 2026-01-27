@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
+      "login": "ThamiresPelentir",
       "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png"
     }
@@ -613,6 +613,62 @@
           {
             "nome": "MAX 03",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776564.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "PREMIERE",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/premiere.png",
+        "itens": [
+          {
+            "nome": "PREMIERE 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785197.m3u8"
+          },
+          {
+            "nome": "PREMIERE 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93522.m3u8"
+          },
+          {
+            "nome": "PREMIERE 3",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93524.m3u8"
+          },
+          {
+            "nome": "PREMIERE 4",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93526.m3u8"
+          },
+          {
+            "nome": "PREMIERE 5",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/4167111.m3u8"
+          },
+          {
+            "nome": "PREMIERE 6",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93532.m3u8"
+          },
+          {
+            "nome": "PREMIERE 7",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93544.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "SPORTV",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sportv.png",
+        "itens": [
+          {
+            "nome": "SPORTV 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99013.m3u8"
+          },
+          {
+            "nome": "SPORTV 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479369.m3u8"
+          },
+          {
+            "nome": "SPORTV 3",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/85648.m3u8"
+          },
+          {
+            "nome": "SPORTV 4",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100727.m3u8"
           }
         ]
       }
