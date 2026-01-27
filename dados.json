@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
-      "senha": "366028",
+      "login": "admin",
+      "senha": "admin",
       "foto": "https://i.imgur.com/8Km9tLL.png"
     }
   ],
@@ -14,95 +14,95 @@
         "itens": [
           {
             "nome": "A&E",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/208146.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/208146.m3u8"
           },
           {
             "nome": "AMC",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/208151.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/208151.m3u8"
           },
           {
             "nome": "CANAL SONY",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/101980.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/101980.m3u8"
           },
           {
             "nome": "CINEMAX",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/727325.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/727325.m3u8"
           },
           {
             "nome": "CURTA",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/101986.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/101986.m3u8"
           },
           {
             "nome": "CURTA",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/101986.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/101986.m3u8"
           },
           {
             "nome": "CANAL BRASIL",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/1479393.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/1479393.m3u8"
           },
           {
             "nome": "AXN",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/101975.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/101975.m3u8"
           },
           {
             "nome": "FILM & ARTS",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/101991.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/101991.m3u8"
           },
           {
             "nome": "MEGAPIX",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/101998.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/101998.m3u8"
           },
           {
             "nome": "MODO VIAGEM",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/727285.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/727285.m3u8"
           },
           {
             "nome": "SONY MOVIES",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/4167113.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/4167113.m3u8"
           },
           {
             "nome": "STUDIO UNIVERSAL",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/1479431.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/1479431.m3u8"
           },
           {
             "nome": "TCM",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/102017.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/102017.m3u8"
           },
           {
             "nome": "TNT",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/102020.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/102020.m3u8"
           },
           {
             "nome": "TNT",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/208235.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/208235.m3u8"
           },
           {
             "nome": "TNT SERIES",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/102022.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/102022.m3u8"
           },
           {
             "nome": "TNT SERIES",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/208205.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/208205.m3u8"
           },
           {
             "nome": "UNIVERSAL PREMIERE",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/1479449.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/1479449.m3u8"
           },
           {
             "nome": "UNIVERSAL REALITY",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/1479451.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/1479451.m3u8"
           },
           {
             "nome": "USA NETWORK",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/208188.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/208188.m3u8"
           },
           {
             "nome": "WARNER CHANNEL",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/102029.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/102029.m3u8"
           },
           {
             "nome": "SPACE",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/102005.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/102005.m3u8"
           }
         ]
       },
@@ -112,7 +112,71 @@
         "itens": [
           {
             "nome": "ANHANGUERA ANÁPOLIS",
-            "url": "http://vrpro.fun:80/Thamires Pelentir/366028/784340.m3u8"
+            "url": "http://vrpro.fun:80/{user}/{pass}/784340.m3u8"
+          },
+          {
+            "nome": "GAZETA NOROESTE",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784610.m3u8"
+          },
+          {
+            "nome": "GAZETA NORTE ESPIRITO SANTO",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784613.m3u8"
+          },
+          {
+            "nome": "GAZETA SUL ESPIRITO SANTO",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784498.m3u8"
+          },
+          {
+            "nome": "GLOBO AMAPA",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784345.m3u8"
+          },
+          {
+            "nome": "GLOBO BAGE",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784348.m3u8"
+          },
+          {
+            "nome": "ANHANGUERA RIO VERDE",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784342.m3u8"
+          },
+          {
+            "nome": "GLOBO BAHIA SALVADOR",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784351.m3u8"
+          },
+          {
+            "nome": "GLOBO CENTRO AMÉRICA",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784357.m3u8"
+          },
+          {
+            "nome": "GLOBO CRUZEIRO DO SUL",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784361.m3u8"
+          },
+          {
+            "nome": "GLOBO DF",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784356.m3u8"
+          },
+          {
+            "nome": "GLOBO EPTV ARARAQUARA",
+            "url": "http://vrpro.fun:80/{user}/{pass}/3330351.m3u8"
+          },
+          {
+            "nome": "GLOBO EPTV CAMPINAS",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784365.m3u8"
+          },
+          {
+            "nome": "GLOBO EPTV RIBEIRÃO PRETO",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784370.m3u8"
+          },
+          {
+            "nome": "GLOBO EPTV SAO CARLOS",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784362.m3u8"
+          },
+          {
+            "nome": "GLOBO EPTV SUL DE MINAS",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784371.m3u8"
+          },
+          {
+            "nome": "GLOBO INTER TV ALTO LITORAL",
+            "url": "http://vrpro.fun:80/{user}/{pass}/784374.m3u8"
           }
         ]
       }
