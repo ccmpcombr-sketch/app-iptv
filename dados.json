@@ -339,6 +339,40 @@
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97954.m3u8"
           }
         ]
+      },
+      {
+        "album": "INFANTIL",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/infantil.png",
+        "itens": [
+          {
+            "nome": "CARTOON NETWORK",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94576.m3u8"
+          },
+          {
+            "nome": "CARTOONITO",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94579.m3u8"
+          },
+          {
+            "nome": "DISCOVERY KIDS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94567.m3u8"
+          },
+          {
+            "nome": "GLOOB",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94586.m3u8"
+          },
+          {
+            "nome": "GLOOBINHO",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94588.m3u8"
+          },
+          {
+            "nome": "NICK JR",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94569.m3u8"
+          },
+          {
+            "nome": "NICKELODEON",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94572.m3u8"
+          }
+        ]
       }
     ],
     "filmes": [],
