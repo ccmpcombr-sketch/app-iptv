@@ -3,14 +3,14 @@
     {
       "login": "Thamires Pelentir",
       "senha": "366028",
-      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png"
+      "foto": "https://i.imgur.com/8Km9tLL.png"
     }
   ],
   "categorias": {
     "aovivo": [
       {
         "album": "FILMES E SÉRIES",
-        "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
         "itens": [
           {
             "nome": "A&E",
