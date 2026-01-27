@@ -10,7 +10,7 @@
     "aovivo": [
       {
         "album": "FILMES E SÉRIES",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+        "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
         "itens": [
           {
             "nome": "A&E",
@@ -181,6 +181,40 @@
           {
             "nome": "SBT SP",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91854.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "DOCUMENTÁRIOS",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png",
+        "itens": [
+          {
+            "nome": "ANIMAL PLANET",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94204.m3u8"
+          },
+          {
+            "nome": "DOG TV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94206.m3u8"
+          },
+          {
+            "nome": "FASHIONTV BRASIL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208406.m3u8"
+          },
+          {
+            "nome": "FISH TV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94210.m3u8"
+          },
+          {
+            "nome": "HGTV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208170.m3u8"
+          },
+          {
+            "nome": "HISTORY CHANNEL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94214.m3u8"
+          },
+          {
+            "nome": "NHK",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94223.m3u8"
           }
         ]
       }
