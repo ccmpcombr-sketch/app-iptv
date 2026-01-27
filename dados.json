@@ -507,6 +507,54 @@
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431393.m3u8"
           }
         ]
+      },
+      {
+        "album": "ESPN",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/espn.png",
+        "itens": [
+          {
+            "nome": "ESPN 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/169012.m3u8"
+          },
+          {
+            "nome": "ESPN 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91228.m3u8"
+          },
+          {
+            "nome": "ESPN 3",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91230.m3u8"
+          },
+          {
+            "nome": "ESPN 4",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208164.m3u8"
+          },
+          {
+            "nome": "ESPN 5",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91243.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "GOAT",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/goat.png",
+        "itens": [
+          {
+            "nome": "GOAT 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785279.m3u8"
+          },
+          {
+            "nome": "GOAT 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785280.m3u8"
+          },
+          {
+            "nome": "GOAT 3",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785281.m3u8"
+          },
+          {
+            "nome": "GOAT 4",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785282.m3u8"
+          }
+        ]
       }
     ],
     "filmes": [],
