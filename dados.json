@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
+      "login": "ThamiresPelentir",
       "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png"
     }
@@ -10,7 +10,7 @@
     "aovivo": [
       {
         "album": "FILMES E SÉRIES",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png.png",
         "itens": [
           {
             "nome": "A&E",
@@ -107,76 +107,80 @@
         ]
       },
       {
-        "album": "GLOBO",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/globo.png",
+        "album": "CANAIS ABERTO",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
         "itens": [
           {
-            "nome": "ANHANGUERA ANÁPOLIS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784340.m3u8"
+            "nome": "GLOBO SP",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784469.m3u8"
           },
           {
-            "nome": "GAZETA NOROESTE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784610.m3u8"
+            "nome": "BAND SP",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102794.m3u8"
           },
           {
-            "nome": "GAZETA NORTE ESPIRITO SANTO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784613.m3u8"
+            "nome": "BOA VONTADE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99366.m3u8"
           },
           {
-            "nome": "GAZETA SUL ESPIRITO SANTO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784498.m3u8"
+            "nome": "CANCAO NOVA",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99345.m3u8"
           },
           {
-            "nome": "GLOBO AMAPA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784345.m3u8"
+            "nome": "REDE BRASIL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99365.m3u8"
           },
           {
-            "nome": "GLOBO BAGE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784348.m3u8"
+            "nome": "REDE GENESIS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99384.m3u8"
           },
           {
-            "nome": "ANHANGUERA RIO VERDE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784342.m3u8"
+            "nome": "REDE GOSPEL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99374.m3u8"
           },
           {
-            "nome": "GLOBO BAHIA SALVADOR",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784351.m3u8"
+            "nome": "REDE SUPER",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99350.m3u8"
           },
           {
-            "nome": "GLOBO CENTRO AMÉRICA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784357.m3u8"
+            "nome": "REDE SECULO 21",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99361.m3u8"
           },
           {
-            "nome": "GLOBO CRUZEIRO DO SUL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784361.m3u8"
+            "nome": "REDE VIDA",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99352.m3u8"
           },
           {
-            "nome": "GLOBO DF",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784356.m3u8"
+            "nome": "RIT",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99353.m3u8"
           },
           {
-            "nome": "GLOBO EPTV ARARAQUARA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3330351.m3u8"
+            "nome": "CANAL DO BOI",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208152.m3u8"
           },
           {
-            "nome": "GLOBO EPTV CAMPINAS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784365.m3u8"
+            "nome": "CANAL RURAL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208213.m3u8"
           },
           {
-            "nome": "GLOBO EPTV RIBEIRÃO PRETO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784370.m3u8"
+            "nome": "CNT",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727306.m3u8"
           },
           {
-            "nome": "GLOBO EPTV SAO CARLOS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784362.m3u8"
+            "nome": "FUTURA",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727280.m3u8"
           },
           {
-            "nome": "GLOBO EPTV SUL DE MINAS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784371.m3u8"
+            "nome": "REDE TV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727291.m3u8"
           },
           {
-            "nome": "GLOBO INTER TV ALTO LITORAL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784374.m3u8"
+            "nome": "RECORD SP",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784811.m3u8"
+          },
+          {
+            "nome": "SBT SP",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91854.m3u8"
           }
         ]
       }
