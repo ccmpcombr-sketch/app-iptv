@@ -215,6 +215,84 @@
           {
             "nome": "NHK",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94223.m3u8"
+          },
+          {
+            "nome": "HISTORY 2",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94212.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "VARIEDADES",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/variedades.png",
+        "itens": [
+          {
+            "nome": "ARTE 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479525.m3u8"
+          },
+          {
+            "nome": "ARTE 1",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479525.m3u8"
+          },
+          {
+            "nome": "AXN",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100711.m3u8"
+          },
+          {
+            "nome": "BIS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99938.m3u8"
+          },
+          {
+            "nome": "DISCOVERY TLC",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99961.m3u8"
+          },
+          {
+            "nome": "E!",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99943.m3u8"
+          },
+          {
+            "nome": "EUROCHANNEL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727315.m3u8"
+          },
+          {
+            "nome": "FOOD NETWORK",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99947.m3u8"
+          },
+          {
+            "nome": "GNT",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99949.m3u8"
+          },
+          {
+            "nome": "ISTV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479563.m3u8"
+          },
+          {
+            "nome": "LIFETIME",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99953.m3u8"
+          },
+          {
+            "nome": "LIKE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479567.m3u8"
+          },
+          {
+            "nome": "MTV",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479574.m3u8"
+          },
+          {
+            "nome": "MULTISHOW",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99957.m3u8"
+          },
+          {
+            "nome": "MUSIC BOX BRASIL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479584.m3u8"
+          },
+          {
+            "nome": "PRIME BOX BRAZIL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208359.m3u8"
+          },
+          {
+            "nome": "SABOR & ARTE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479599.m3u8"
           }
         ]
       }
