@@ -1,16 +1,16 @@
 {
   "usuarios": [
     {
-      "login": "ThamiresPelentir",
+      "login": "Thamires Pelentir",
       "senha": "366028",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
+      "foto": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png"
     }
   ],
   "categorias": {
     "aovivo": [
       {
         "album": "FILMES E SÉRIES",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+        "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
         "itens": [
           {
             "nome": "A&E",
@@ -27,6 +27,82 @@
           {
             "nome": "CINEMAX",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727325.m3u8"
+          },
+          {
+            "nome": "CURTA",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101986.m3u8"
+          },
+          {
+            "nome": "CURTA",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101986.m3u8"
+          },
+          {
+            "nome": "CANAL BRASIL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479393.m3u8"
+          },
+          {
+            "nome": "AXN",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101975.m3u8"
+          },
+          {
+            "nome": "FILM & ARTS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101991.m3u8"
+          },
+          {
+            "nome": "MEGAPIX",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101998.m3u8"
+          },
+          {
+            "nome": "MODO VIAGEM",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727285.m3u8"
+          },
+          {
+            "nome": "SONY MOVIES",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/4167113.m3u8"
+          },
+          {
+            "nome": "STUDIO UNIVERSAL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479431.m3u8"
+          },
+          {
+            "nome": "TCM",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102017.m3u8"
+          },
+          {
+            "nome": "TNT",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102020.m3u8"
+          },
+          {
+            "nome": "TNT",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208235.m3u8"
+          },
+          {
+            "nome": "TNT SERIES",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102022.m3u8"
+          },
+          {
+            "nome": "TNT SERIES",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208205.m3u8"
+          },
+          {
+            "nome": "UNIVERSAL PREMIERE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479449.m3u8"
+          },
+          {
+            "nome": "UNIVERSAL REALITY",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479451.m3u8"
+          },
+          {
+            "nome": "USA NETWORK",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208188.m3u8"
+          },
+          {
+            "nome": "WARNER CHANNEL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102029.m3u8"
+          },
+          {
+            "nome": "SPACE",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102005.m3u8"
           }
         ]
       }
