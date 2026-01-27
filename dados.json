@@ -1,7 +1,7 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
+      "login": "ThamiresPelentir",
       "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png"
     }
@@ -315,6 +315,28 @@
           {
             "nome": "OFF",
             "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101021.m3u8"
+          }
+        ]
+      },
+      {
+        "album": "NOTICIAS",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/noticias.png",
+        "itens": [
+          {
+            "nome": "CNN BRASIL",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97948.m3u8"
+          },
+          {
+            "nome": "GLOBO NEWS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/96575.m3u8"
+          },
+          {
+            "nome": "JOVEM PAN NEWS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97951.m3u8"
+          },
+          {
+            "nome": "RECORD NEWS",
+            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97954.m3u8"
           }
         ]
       }
