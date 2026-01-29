@@ -1,29 +1,35 @@
 {
-  "usuarios": [
-    {
-      "login": "Thamires Pelentir",
-      "senha": "366028",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
-    }
-  ],
+  "usuarios": [],
   "categorias": {
     "aovivo": [
       {
-        "album": "ABERTOS",
+        "album": "Canais Abertos",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
         "itens": [
           {
             "nome": "SBT",
             "streams": {
-              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/91863.m3u8",
-              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/91864.m3u8",
+              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
+              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
               "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/91862.m3u8"
             }
           }
         ]
       }
     ],
-    "filmes": [],
     "series": []
-  }
+  },
+  "filmes": [
+    {
+      "genero": "Ação",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/a%C3%A7%C3%A3o.png",
+      "filmes": [
+        {
+          "nome": "007 Contra o Foguete da Morte (1979)",
+          "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
+          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
+        }
+      ]
+    }
+  ]
 }
