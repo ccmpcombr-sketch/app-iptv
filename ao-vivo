@@ -1,5 +1,11 @@
 {
-  "usuarios": [],
+  "usuarios": [
+    {
+      "login": "Thamires Pelentir",
+      "senha": "366028",
+      "foto": "https://i.imgur.com/8Km9tLL.png"
+    }
+  ],
   "categorias": {
     "aovivo": [
       {
