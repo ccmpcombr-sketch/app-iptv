@@ -13,7 +13,7 @@
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
         "itens": [
           {
-            "nome": "SBT12345678910",
+            "nome": "SBT",
             "streams": {
               "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
               "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
