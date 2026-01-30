@@ -1,4 +1,6 @@
-   {
+{
+  "usuarios": [
+    {
       "login": "Thamires Pelentir",
       "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png"
@@ -39,12 +41,12 @@
         {
           "nome": "007 Contra o Foguete da Morte (1979)",
           "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
+          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3913512.mp4"
         },
         {
           "nome": "007 Contra Goldfinger (1964)",
-          "capa": "https://image.tmdb.org/t/p/w780/aSFbyik1bd3xQxyPQbahdcaCYwT.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3913512.mp4"
+          "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
+          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
         }
       ]
     }
