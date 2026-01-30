@@ -3,6 +3,11 @@
     {
       "login": "Thamires Pelentir",
       "senha": "366028",
+      "foto": "foto\": \"https://i.imgur.com/8Km9tLL.png"
+    },
+    {
+      "login": "Thamires Pelentir",
+      "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png"
     }
   ],
@@ -18,13 +23,14 @@
               "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
               "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
               "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/91862.m3u8"
-            },
-            {
-            "nome": "SBT",
+            }
+          },
+          {
+            "nome": "GLOBO",
             "streams": {
-              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
-              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
-              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/91862.m3u8"
+              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/784613.m3u8",
+              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/784614.m3u8",
+              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/784615.m3u8"
             }
           }
         ]
@@ -41,6 +47,11 @@
           "nome": "007 Contra o Foguete da Morte (1979)",
           "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
           "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
+        },
+        {
+          "nome": "007 Contra Goldfinger (1964)",
+          "capa": "https://image.tmdb.org/t/p/w780/aSFbyik1bd3xQxyPQbahdcaCYwT.jpg",
+          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3913512.mp4"
         }
       ]
     }
