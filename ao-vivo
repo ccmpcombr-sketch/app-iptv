@@ -18,6 +18,13 @@
               "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
               "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
               "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/91862.m3u8"
+            },
+            {
+            "nome": "SBT",
+            "streams": {
+              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
+              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
+              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/91862.m3u8"
             }
           }
         ]
