@@ -6,132 +6,81 @@
       "foto": "https://i.imgur.com/8Km9tLL.png",
       "url_raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/ao-vivo.json",
       "url_page": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/ao-vivo.json"
-    },
-    {
-      "login": "usuario2",
-      "senha": "abcd",
-      "foto": "https://via.placeholder.com/160x200",
-      "url_raw": "https://raw.githubusercontent.com/usuario2",
-      "url_page": "https://github.com/usuario2"
     }
   ],
-
+  "capas_categorias": {
+    "aovivo": {
+      "nome": "Ao Vivo",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ao%20vivo.PNG"
+    },
+    "filmes": {
+      "nome": "Filmes",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Capturar.PNG"
+    },
+    "series": {
+      "nome": "Series",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Capturar.PNG"
+    },
+    "usuario": {
+      "nome": "Usuario",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Capturar.PNG"
+    }
+  },
   "categorias": {
     "aovivo": [
       {
         "album": "FILMES E SÉRIES",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
-        "subalbuns": [
+        "subAlbuns": [
           {
-            "album": "DIVERSOS",
-            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
-            "itens": [
-              {
-                "nome": "A&E",
-                "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
-                "streams": {
-                  "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208146.m3u8",
-                  "HD": "https://link-para-stream-hd.m3u8",
-                  "SD": "https://link-para-stream-sd.m3u8"
-                }
-              },
-              {
-                "nome": "Fox Sports",
-                "logo": "https://via.placeholder.com/110x70",
-                "streams": {
-                  "FHD": "https://link-para-stream-fhd.m3u8",
-                  "HD": "https://link-para-stream-hd.m3u8",
-                  "SD": "https://link-para-stream-sd.m3u8"
-                }
-              }
-            ]
-          },
+            "subAlbum": "DIVERSOS",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png"
+          }
+        ],
+        "itens": [
           {
-            "album": "Notícias",
-            "capa": "https://via.placeholder.com/160x200",
-            "itens": [
-              {
-                "nome": "CNN Brasil",
-                "logo": "https://via.placeholder.com/110x70",
-                "streams": {
-                  "FHD": "https://link-para-stream-fhd.m3u8",
-                  "HD": "https://link-para-stream-hd.m3u8",
-                  "SD": "https://link-para-stream-sd.m3u8"
-                }
-              }
-            ]
+            "nome": "A&E",
+            "streams": {
+              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/1479383.m3u8",
+              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208147.m3u8",
+              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/208382.m3u8"
+            }
           }
         ]
       }
     ],
-
+    "filmes": [
+      {
+        "album": "Ação",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/a%C3%A7%C3%A3o.png",
+        "subAlbuns": [
+          {
+            "subAlbum": "007",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/capa%20sub-album.PNG"
+          }
+        ],
+        "itens": [
+          {
+            "nome": "007 A Serviço Secreto de Sua Majestade (1969)",
+            "capa": "https://image.tmdb.org/t/p/w780/vPkS9X0qaPDaHSke0Ji4UJRk9Ye.jpg",
+            "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914714.mp4"
+          }
+        ]
+      }
+    ],
     "series": [
       {
-        "album": "Séries de Ação",
-        "capa": "https://via.placeholder.com/160x200",
-        "subalbuns": [
+        "album": "Gangues de Oslo",
+        "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/eCHXtsWHFQeQxR8VXuLuLpkhWhE.jpg",
+        "subAlbuns": [],
+        "itens": [
           {
-            "album": "Temporada 1",
-            "capa": "https://via.placeholder.com/160x200",
-            "itens": [
-              {
-                "nome": "Episódio 1",
-                "logo": "https://via.placeholder.com/110x70",
-                "streams": {
-                  "FHD": "https://link-para-stream-fhd.m3u8",
-                  "HD": "https://link-para-stream-hd.m3u8",
-                  "SD": "https://link-para-stream-sd.m3u8"
-                }
-              }
-            ]
-          },
-          {
-            "album": "Temporada 2",
-            "capa": "https://via.placeholder.com/160x200",
-            "itens": [
-              {
-                "nome": "Episódio 1",
-                "logo": "https://via.placeholder.com/110x70",
-                "streams": {
-                  "FHD": "https://link-para-stream-fhd.m3u8",
-                  "HD": "https://link-para-stream-hd.m3u8",
-                  "SD": "https://link-para-stream-sd.m3u8"
-                }
-              }
-            ]
+            "nome": "Gangues de Oslo",
+            "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/eCHXtsWHFQeQxR8VXuLuLpkhWhE.jpg",
+            "url": "http://vrpro.fun:80/series/ThamiresPelentir/366028/3937012.mp4"
           }
         ]
       }
     ]
-  },
-
-  "filmes": [
-    {
-      "genero": "Ação",
-      "capa": "https://via.placeholder.com/160x200",
-      "filmes": [
-        {
-          "nome": "Filme 1",
-          "capa": "https://via.placeholder.com/160x200",
-          "url": "https://link-para-filme.mp4"
-        },
-        {
-          "nome": "Filme 2",
-          "capa": "https://via.placeholder.com/160x200",
-          "url": "https://link-para-filme2.mp4"
-        }
-      ]
-    },
-    {
-      "genero": "Comédia",
-      "capa": "https://via.placeholder.com/160x200",
-      "filmes": [
-        {
-          "nome": "Filme Cômico 1",
-          "capa": "https://via.placeholder.com/160x200",
-          "url": "https://link-para-filme-comedia.mp4"
-        }
-      ]
-    }
-  ]
+  }
 }
