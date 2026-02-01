@@ -1,62 +1,135 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
-      "senha": "366028",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
+      "login": "usuario1",
+      "senha": "1234",
+      "foto": "https://via.placeholder.com/160x200",
+      "url_raw": "https://raw.githubusercontent.com/usuario1",
+      "url_page": "https://github.com/usuario1"
+    },
+    {
+      "login": "usuario2",
+      "senha": "abcd",
+      "foto": "https://via.placeholder.com/160x200",
+      "url_raw": "https://raw.githubusercontent.com/usuario2",
+      "url_page": "https://github.com/usuario2"
     }
   ],
+
   "categorias": {
     "aovivo": [
       {
-        "album": "Canais Abertos",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
-        "itens": [
+        "album": "Canais Brasileiros",
+        "capa": "https://via.placeholder.com/160x200",
+        "subalbuns": [
           {
-            "nome": "SBT123456789010",
-            "streams": {
-              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
-              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
-              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/91862.m3u8"
-            }
+            "album": "Esportes",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "ESPN",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              },
+              {
+                "nome": "Fox Sports",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
           },
           {
-            "nome": "GLOBO",
-            "streams": {
-              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/784613.m3u8",
-              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/784614.m3u8",
-              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/784615.m3u8"
-            }
+            "album": "Notícias",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "CNN Brasil",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
           }
         ]
       }
     ],
-    "series": []
+
+    "series": [
+      {
+        "album": "Séries de Ação",
+        "capa": "https://via.placeholder.com/160x200",
+        "subalbuns": [
+          {
+            "album": "Temporada 1",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "Episódio 1",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
+          },
+          {
+            "album": "Temporada 2",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "Episódio 1",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
+
   "filmes": [
     {
       "genero": "Ação",
-      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/a%C3%A7%C3%A3o.png",
+      "capa": "https://via.placeholder.com/160x200",
       "filmes": [
         {
-          "nome": "Foguete da Morte (1979)",
-          "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3913512.mp4"
+          "nome": "Filme 1",
+          "capa": "https://via.placeholder.com/160x200",
+          "url": "https://link-para-filme.mp4"
         },
         {
-          "nome": "Goldfinger (1964)",
-          "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
-        },
+          "nome": "Filme 2",
+          "capa": "https://via.placeholder.com/160x200",
+          "url": "https://link-para-filme2.mp4"
+        }
+      ]
+    },
+    {
+      "genero": "Comédia",
+      "capa": "https://via.placeholder.com/160x200",
+      "filmes": [
         {
-          "nome": "o Homem com a Pistola de Ouro (1974)",
-          "capa": "https://image.tmdb.org/t/p/w780/rqC546GsvQqNEM4Tmlw6y132Dst.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914711.mp4"
-        },
-        {
-          "nome": "Contra o Satânico Dr. No (1962)",
-          "capa": "https://image.tmdb.org/t/p/w780/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914718.mp4"
+          "nome": "Filme Cômico 1",
+          "capa": "https://via.placeholder.com/160x200",
+          "url": "https://link-para-filme-comedia.mp4"
         }
       ]
     }
