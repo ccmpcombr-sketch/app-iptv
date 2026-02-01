@@ -4,7 +4,144 @@
       "login": "Thamires Pelentir",
       "senha": "1234",
       "foto": "https://via.placeholder.com/160x200",
+      "url_raw": "https://raw{
+  "usuarios": [
+    {
+      "login": "Thamires Pelentir",
+      "senha": "366028",
+      "foto": "https://i.imgur.com/8Km9tLL.png",
       "url_raw": "https://raw.githubusercontent.com/usuario1",
+      "url_page": "https://github.com/usuario1"
+    },
+    {
+      "login": "usuario2",
+      "senha": "abcd",
+      "foto": "https://via.placeholder.com/160x200",
+      "url_raw": "https://raw.githubusercontent.com/usuario2",
+      "url_page": "https://github.com/usuario2"
+    }
+  ],
+
+  "categorias": {
+    "aovivo": [
+      {
+        "album": "FILMES E SÉRIES",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+        "subalbuns": [
+          {
+            "album": "DIVERSOS",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+            "itens": [
+              {
+                "nome": "A&E",
+                "logo": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+                "streams": {
+                  "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208146.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              },
+              {
+                "nome": "Fox Sports",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
+          },
+          {
+            "album": "Notícias",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "CNN Brasil",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+
+    "series": [
+      {
+        "album": "Séries de Ação",
+        "capa": "https://via.placeholder.com/160x200",
+        "subalbuns": [
+          {
+            "album": "Temporada 1",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "Episódio 1",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
+          },
+          {
+            "album": "Temporada 2",
+            "capa": "https://via.placeholder.com/160x200",
+            "itens": [
+              {
+                "nome": "Episódio 1",
+                "logo": "https://via.placeholder.com/110x70",
+                "streams": {
+                  "FHD": "https://link-para-stream-fhd.m3u8",
+                  "HD": "https://link-para-stream-hd.m3u8",
+                  "SD": "https://link-para-stream-sd.m3u8"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "filmes": [
+    {
+      "genero": "Ação",
+      "capa": "https://via.placeholder.com/160x200",
+      "filmes": [
+        {
+          "nome": "Filme 1",
+          "capa": "https://via.placeholder.com/160x200",
+          "url": "https://link-para-filme.mp4"
+        },
+        {
+          "nome": "Filme 2",
+          "capa": "https://via.placeholder.com/160x200",
+          "url": "https://link-para-filme2.mp4"
+        }
+      ]
+    },
+    {
+      "genero": "Comédia",
+      "capa": "https://via.placeholder.com/160x200",
+      "filmes": [
+        {
+          "nome": "Filme Cômico 1",
+          "capa": "https://via.placeholder.com/160x200",
+          "url": "https://link-para-filme-comedia.mp4"
+        }
+      ]
+    }
+  ]
+}
+.githubusercontent.com/usuario1",
       "url_page": "https://github.com/usuario1"
     },
     {
