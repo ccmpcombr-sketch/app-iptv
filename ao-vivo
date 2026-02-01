@@ -3,7 +3,9 @@
     {
       "login": "Thamires Pelentir",
       "senha": "366028",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
+      "foto": "https://i.imgur.com/8Km9tLL.png",
+      "raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/ao-vivo",
+      "url": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/ao-vivo"
     }
   ],
   "categorias": {
@@ -11,9 +13,10 @@
       {
         "album": "Canais Abertos",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
+        "subAlbuns": [],
         "itens": [
           {
-            "nome": "SBT123456789010",
+            "nome": "SBT",
             "streams": {
               "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/208337.m3u8",
               "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208269.m3u8",
@@ -31,34 +34,53 @@
         ]
       }
     ],
-    "series": []
-  },
-  "filmes": [
-    {
-      "genero": "Ação",
-      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/a%C3%A7%C3%A3o.png",
-      "filmes": [
-        {
-          "nome": "Foguete da Morte (1979)",
-          "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3913512.mp4"
-        },
-        {
-          "nome": "Goldfinger (1964)",
-          "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
-        },
-        {
-          "nome": "o Homem com a Pistola de Ouro (1974)",
-          "capa": "https://image.tmdb.org/t/p/w780/rqC546GsvQqNEM4Tmlw6y132Dst.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914711.mp4"
-        },
-        {
-          "nome": "Contra o Satânico Dr. No (1962)",
-          "capa": "https://image.tmdb.org/t/p/w780/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg",
-          "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914718.mp4"
-        }
-      ]
-    }
-  ]
+    "filmes": [
+      {
+        "album": "Ação",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/a%C3%A7%C3%A3o.png",
+        "subAlbuns": [
+          {
+            "subAlbum": "007",
+            "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg"
+          }
+        ],
+        "itens": [
+          {
+            "nome": "Foguete da Morte (1979)",
+            "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
+            "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3913512.mp4"
+          },
+          {
+            "nome": "Goldfinger (1964)",
+            "capa": "https://image.tmdb.org/t/p/w780/qLWSt8edXmWG55I16DJt5VtXsR3.jpg",
+            "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914709.mp4"
+          }
+        ]
+      }
+    ],
+    "series": [
+      {
+        "album": "007",
+        "capa": "https://image.tmdb.org/t/p/w780/rqC546GsvQqNEM4Tmlw6y132Dst.jpg",
+        "subAlbuns": [
+          {
+            "subAlbum": "0007",
+            "capa": "https://image.tmdb.org/t/p/w780/rqC546GsvQqNEM4Tmlw6y132Dst.jpg"
+          }
+        ],
+        "itens": [
+          {
+            "nome": "o Homem com a Pistola de Ouro (1974)",
+            "capa": "https://image.tmdb.org/t/p/w780/rqC546GsvQqNEM4Tmlw6y132Dst.jpg",
+            "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914711.mp4"
+          },
+          {
+            "nome": "Contra o Satânico Dr. No (1962)",
+            "capa": "https://image.tmdb.org/t/p/w780/zJPZPtBqPSN73m6UmpS7uTTOZSo.jpg",
+            "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914718.mp4"
+          }
+        ]
+      }
+    ]
+  }
 }
