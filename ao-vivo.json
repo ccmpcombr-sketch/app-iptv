@@ -96,7 +96,7 @@
           {
             "nome": "CURTA!",
             "descricao": "O Curta! é um canal de televisão, independente, dedicado à exibição de conteúdos focados em artes, cultura e humanidades.",
-            "capa": "https://github.com/ccmpcombr-sketch/CAPAS/blob/main/ao%20vivo/CURTA!.PNG",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FILM%20%26%20ARTS.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101987.m3u8",
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101986.m3u8",
