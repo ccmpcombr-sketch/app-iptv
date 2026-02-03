@@ -82,6 +82,16 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101981.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101982.m3u8"
             }
+          },
+          {
+            "nome": "CINEMAX",
+            "descricao": "O Cinemax é um canal de televisão, parte do grupo Warner Bros. Discovery (junto com a HBO).",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINEMAX.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727325.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101984.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101985.m3u8"
+            }
           }
         ]
       },
