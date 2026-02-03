@@ -52,6 +52,16 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208151.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208383.m3u8"
             }
+          },
+          {
+            "nome": "AXN",
+            "descricao": "Canal de televisão, de propriedade da Sony Pictures Entertainment, focado em entretenimento de ação, investigação e suspense.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/axn.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101974.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101975.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101976.m3u8"
+            }
           }
         ]
       },
