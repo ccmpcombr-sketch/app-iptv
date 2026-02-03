@@ -3,674 +3,126 @@
     {
       "login": "Thamires Pelentir",
       "senha": "366028",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
+      "foto": "https://i.imgur.com/8Km9tLL.png",
+      "url_raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/ao-vivo.json",
+      "url_page": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/ao-vivo.json"
     }
   ],
+  "capas_categorias": {
+    "aovivo": {
+      "nome": "Ao Vivo",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ao%20vivo.PNG"
+    },
+    "filmes": {
+      "nome": "Filmes",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Capturar.PNG"
+    },
+    "series": {
+      "nome": "Series",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Capturar.PNG"
+    },
+    "usuario": {
+      "nome": "Usuario",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/usuarios/Capturar.PNG"
+    }
+  },
   "categorias": {
     "aovivo": [
       {
         "album": "FILMES E SÉRIES",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
-        "itens": [
-          {
-            "nome": "A&E",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208146.m3u8"
-          },
-          {
-            "nome": "AMC",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208151.m3u8"
-          },
-          {
-            "nome": "CANAL SONY",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101980.m3u8"
-          },
-          {
-            "nome": "CINEMAX",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727325.m3u8"
-          },
-          {
-            "nome": "CURTA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101986.m3u8"
-          },
-          {
-            "nome": "CURTA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101986.m3u8"
-          },
-          {
-            "nome": "CANAL BRASIL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479393.m3u8"
-          },
-          {
-            "nome": "AXN",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101975.m3u8"
-          },
-          {
-            "nome": "FILM & ARTS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101991.m3u8"
-          },
-          {
-            "nome": "MEGAPIX",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101998.m3u8"
-          },
-          {
-            "nome": "MODO VIAGEM",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727285.m3u8"
-          },
-          {
-            "nome": "SONY MOVIES",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/4167113.m3u8"
-          },
-          {
-            "nome": "STUDIO UNIVERSAL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479431.m3u8"
-          },
-          {
-            "nome": "TCM",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102017.m3u8"
-          },
-          {
-            "nome": "TNT",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102020.m3u8"
-          },
-          {
-            "nome": "TNT NOVELAS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208235.m3u8"
-          },
-          {
-            "nome": "TNT SERIES",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102022.m3u8"
-          },
-          {
-            "nome": "TNT SERIES",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208205.m3u8"
-          },
-          {
-            "nome": "UNIVERSAL PREMIERE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479449.m3u8"
-          },
-          {
-            "nome": "UNIVERSAL REALITY",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479451.m3u8"
-          },
-          {
-            "nome": "USA NETWORK",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208188.m3u8"
-          },
-          {
-            "nome": "WARNER CHANNEL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102029.m3u8"
-          },
-          {
-            "nome": "SPACE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102005.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "CANAIS ABERTO",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
-        "itens": [
-          {
-            "nome": "GLOBO SP",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784469.m3u8"
-          },
-          {
-            "nome": "BAND SP",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/102794.m3u8"
-          },
-          {
-            "nome": "BOA VONTADE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99366.m3u8"
-          },
-          {
-            "nome": "CANCAO NOVA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99345.m3u8"
-          },
-          {
-            "nome": "REDE BRASIL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99365.m3u8"
-          },
-          {
-            "nome": "REDE GENESIS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99384.m3u8"
-          },
-          {
-            "nome": "REDE GOSPEL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99374.m3u8"
-          },
-          {
-            "nome": "REDE SUPER",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99350.m3u8"
-          },
-          {
-            "nome": "REDE SECULO 21",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99361.m3u8"
-          },
-          {
-            "nome": "REDE VIDA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99352.m3u8"
-          },
-          {
-            "nome": "RIT",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99353.m3u8"
-          },
-          {
-            "nome": "CANAL DO BOI",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208152.m3u8"
-          },
-          {
-            "nome": "CANAL RURAL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208213.m3u8"
-          },
-          {
-            "nome": "CNT",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727306.m3u8"
-          },
-          {
-            "nome": "FUTURA",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727280.m3u8"
-          },
-          {
-            "nome": "REDE TV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727291.m3u8"
-          },
-          {
-            "nome": "RECORD SP",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784811.m3u8"
-          },
-          {
-            "nome": "SBT SP",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91854.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "DOCUMENTÁRIOS",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png",
-        "itens": [
-          {
-            "nome": "ANIMAL PLANET",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94204.m3u8"
-          },
-          {
-            "nome": "DOG TV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94206.m3u8"
-          },
-          {
-            "nome": "FASHIONTV BRASIL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208406.m3u8"
-          },
-          {
-            "nome": "FISH TV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94210.m3u8"
-          },
-          {
-            "nome": "HGTV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208170.m3u8"
-          },
-          {
-            "nome": "HISTORY CHANNEL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94214.m3u8"
-          },
-          {
-            "nome": "NHK",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94223.m3u8"
-          },
-          {
-            "nome": "HISTORY 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94212.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "VARIEDADES",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/variedades.png",
-        "itens": [
-          {
-            "nome": "ARTE 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479525.m3u8"
-          },
-          {
-            "nome": "AXN",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100711.m3u8"
-          },
-          {
-            "nome": "BIS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99938.m3u8"
-          },
-          {
-            "nome": "DISCOVERY TLC",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99961.m3u8"
-          },
-          {
-            "nome": "E!",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99943.m3u8"
-          },
-          {
-            "nome": "EUROCHANNEL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/727315.m3u8"
-          },
-          {
-            "nome": "FOOD NETWORK",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99947.m3u8"
-          },
-          {
-            "nome": "GNT",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99949.m3u8"
-          },
-          {
-            "nome": "ISTV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479563.m3u8"
-          },
-          {
-            "nome": "LIFETIME",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99953.m3u8"
-          },
-          {
-            "nome": "LIKE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479567.m3u8"
-          },
-          {
-            "nome": "MTV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479574.m3u8"
-          },
-          {
-            "nome": "MULTISHOW",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99957.m3u8"
-          },
-          {
-            "nome": "MUSIC BOX BRASIL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479584.m3u8"
-          },
-          {
-            "nome": "PRIME BOX BRAZIL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208359.m3u8"
-          },
-          {
-            "nome": "SABOR & ARTE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479599.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "ESPORTES",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/esportes%2001.png",
-        "itens": [
-          {
-            "nome": "BAND SPORTS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101014.m3u8"
-          },
-          {
-            "nome": "CAZE TV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785274.m3u8"
-          },
-          {
-            "nome": "COMBATE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101020.m3u8"
-          },
-          {
-            "nome": "GE TV",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3558792.m3u8"
-          },
-          {
-            "nome": "OFF",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/101021.m3u8"
-          },
-          {
-            "nome": "NBA LEAGUE PASS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776580.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "NOTICIAS",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/noticias.png",
-        "itens": [
-          {
-            "nome": "CNN BRASIL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97948.m3u8"
-          },
-          {
-            "nome": "GLOBO NEWS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/96575.m3u8"
-          },
-          {
-            "nome": "JOVEM PAN NEWS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97951.m3u8"
-          },
-          {
-            "nome": "RECORD NEWS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/97954.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "INFANTIL",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/infantil.png",
-        "itens": [
-          {
-            "nome": "CARTOON NETWORK",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94576.m3u8"
-          },
-          {
-            "nome": "CARTOONITO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94579.m3u8"
-          },
-          {
-            "nome": "DISCOVERY KIDS",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94567.m3u8"
-          },
-          {
-            "nome": "GLOOB",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94586.m3u8"
-          },
-          {
-            "nome": "GLOOBINHO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94588.m3u8"
-          },
-          {
-            "nome": "NICK JR",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94569.m3u8"
-          },
-          {
-            "nome": "NICKELODEON",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/94572.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "CINE SKY",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/cine%20sky.png",
-        "itens": [
-          {
-            "nome": "CINE SKY 01",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456091.m3u8"
-          },
-          {
-            "nome": "CINE SKY 02",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456092.m3u8"
-          },
-          {
-            "nome": "CINE SKY 03",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456093.m3u8"
-          },
-          {
-            "nome": "CINE SKY 04",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456094.m3u8"
-          },
-          {
-            "nome": "CINE SKY 05",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456095.m3u8"
-          },
-          {
-            "nome": "CINE SKY 06",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456096.m3u8"
-          },
-          {
-            "nome": "CINE SKY 07",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456097.m3u8"
-          },
-          {
-            "nome": "CINE SKY 08",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456098.m3u8"
-          },
-          {
-            "nome": "CINE SKY 09",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456099.m3u8"
-          },
-          {
-            "nome": "CINE SKY 10",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456100.m3u8"
-          },
-          {
-            "nome": "CINE SKY 11",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456101.m3u8"
-          },
-          {
-            "nome": "CINE SKY 12",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456102.m3u8"
-          },
-          {
-            "nome": "CINE SKY 13",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456103.m3u8"
-          },
-          {
-            "nome": "CINE SKY 14",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456104.m3u8"
-          },
-          {
-            "nome": "CINE SKY 15",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3456090.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "DISCOVERY",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/dicovery.png",
-        "itens": [
-          {
-            "nome": "DISCOVERY CHANNEL",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/196487.m3u8"
-          },
-          {
-            "nome": "DISCOVERY  THEATHER",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479327.m3u8"
-          },
-          {
-            "nome": "DISCOVERY H&H",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100726.m3u8"
-          },
-          {
-            "nome": "DISCOVERY ID",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/92128.m3u8"
-          },
-          {
-            "nome": "DISCOVERY SCIENCE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208159.m3u8"
-          },
-          {
-            "nome": "DISCOVERY TURBO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/92134.m3u8"
-          },
-          {
-            "nome": "DISCOVERY WORLD",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/92138.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "DISNEY+",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/disney%2B.png",
-        "itens": [
-          {
-            "nome": "DISNEY+ 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785296.m3u8"
-          },
-          {
-            "nome": "DISNEY+ 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3518801.m3u8"
-          },
-          {
-            "nome": "DISNEY+ 3",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/3518802.m3u8"
-          },
-          {
-            "nome": "DISNEY+ 4",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785297.m3u8"
-          },
-          {
-            "nome": "DISNEY+ 5",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431394.m3u8"
-          },
-          {
-            "nome": "DISNEY+ 6",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431395.m3u8"
-          },
-          {
-            "nome": "DISNEY+ 7",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1431393.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "ESPN",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/espn.png",
-        "itens": [
-          {
-            "nome": "ESPN 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/169012.m3u8"
-          },
-          {
-            "nome": "ESPN 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91228.m3u8"
-          },
-          {
-            "nome": "ESPN 3",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91230.m3u8"
-          },
-          {
-            "nome": "ESPN 4",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/208164.m3u8"
-          },
-          {
-            "nome": "ESPN 5",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/91243.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "GOAT",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/goat.png",
-        "itens": [
-          {
-            "nome": "GOAT 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785279.m3u8"
-          },
-          {
-            "nome": "GOAT 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785280.m3u8"
-          },
-          {
-            "nome": "GOAT 3",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785281.m3u8"
-          },
-          {
-            "nome": "GOAT 4",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785282.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "HBO",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/hbo.png",
-        "itens": [
-          {
-            "nome": "HBO",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784732.m3u8"
-          },
-          {
-            "nome": "HBO 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784726.m3u8"
-          },
-          {
-            "nome": "HBO FAMILY",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784729.m3u8"
-          },
-          {
-            "nome": "HBO MUNDI",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784733.m3u8"
-          },
-          {
-            "nome": "HBO POP",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784736.m3u8"
-          },
-          {
-            "nome": "HBO SIGNATURE",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784740.m3u8"
-          },
-          {
-            "nome": "HBO XTREME",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784743.m3u8"
-          },
-          {
-            "nome": "HBO+",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/784746.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "MAX",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/max.png",
-        "itens": [
-          {
-            "nome": "MAX 01",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776562.m3u8"
-          },
-          {
-            "nome": "MAX 02",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776563.m3u8"
-          },
-          {
-            "nome": "MAX 03",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/776564.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "PREMIERE",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/premiere.png",
-        "itens": [
-          {
-            "nome": "PREMIERE 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/785197.m3u8"
-          },
-          {
-            "nome": "PREMIERE 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93522.m3u8"
-          },
-          {
-            "nome": "PREMIERE 3",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93524.m3u8"
-          },
-          {
-            "nome": "PREMIERE 4",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93526.m3u8"
-          },
-          {
-            "nome": "PREMIERE 5",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/4167111.m3u8"
-          },
-          {
-            "nome": "PREMIERE 6",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93532.m3u8"
-          },
-          {
-            "nome": "PREMIERE 7",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/93544.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       },
       {
         "album": "SPORTV",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sportv.png",
-        "itens": [
-          {
-            "nome": "SPORTV 1",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/99013.m3u8"
-          },
-          {
-            "nome": "SPORTV 2",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/1479369.m3u8"
-          },
-          {
-            "nome": "SPORTV 3",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/85648.m3u8"
-          },
-          {
-            "nome": "SPORTV 4",
-            "url": "http://vrpro.fun:80/ThamiresPelentir/366028/100727.m3u8"
-          }
-        ]
+        "subAlbuns": [],
+        "itens": []
       }
     ],
     "filmes": [],
