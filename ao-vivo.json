@@ -96,7 +96,7 @@
           {
             "nome": "CURTA!",
             "descricao": "O Curta! é um canal de televisão, independente, dedicado à exibição de conteúdos focados em artes, cultura e humanidades.",
-            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CURTA!.PNG",
+            "capa": "https://github.com/ccmpcombr-sketch/CAPAS/blob/main/ao%20vivo/CURTA!.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101987.m3u8",
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101986.m3u8",
@@ -105,12 +105,22 @@
           },
           {
             "nome": "FILM & ARTS",
-            "descricao": "O Film & Arts é um canal de televisão latino-americano que se dedica a exibir conteúdo focado em artes.",
+            "descricao": "O Film & Arts é um canal de televisão por assinatura latino-americano que se dedica a exibir conteúdo focado em artes, cultura, cinema e entretenimento de alta qualidade, com uma forte ênfase em produções britânicas e europeias. ",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FILM%20%26%20ARTS.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101990.m3u8",
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101991.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101989.m3u8"
+            }
+          },
+          {
+            "nome": "MEGAPIX",
+            "descricao": "O Megapix é um canal de TV brasileiro, especializado na exibição de filmes, pertencente ao Grupo Globo.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MEGAPIX.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/1429684.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101998.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101996.m3u8"
             }
           }
         ]
@@ -214,13 +224,13 @@
         "itens": [
           {
             "nome": "O Quarto de Vidro (2019)",
-            "descricao": "um drama de época tcheco que narra a intensa história de amor e amizade entre um casl de amigos.",
+            "descricao": "um drama de época tcheco que narra a intensa história de amor e amizade entre Liesel Landauer (Hanna Alström) e Hana (Carice van Houten)",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/O%20QUARTO%20DE%20VIDRO.PNG",
             "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/4160715.mp4"
           },
           {
             "nome": "#Comvocê: Volume 2 (2021)",
-            "descricao": "É uma antologia dramática e de comédia que retrata histórias pessoais na COVID-19.",
+            "descricao": "É uma antologia dramática e de comédia que retrata histórias pessoais de isolamento durante a pandemia da COVID-19.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Comvoc%C3%AA%20%20Volume%202%202021.PNG",
             "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3894647.mp4"
           }
