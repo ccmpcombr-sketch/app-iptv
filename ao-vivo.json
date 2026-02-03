@@ -42,6 +42,16 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208147.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208382.m3u8"
             }
+          },
+          {
+            "nome": "AMC",
+            "descricao": "AMC (Um canal dedicado exclusivamente a Séries)",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/AMC.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208150.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208151.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208383.m3u8"
+            }
           }
         ]
       },
