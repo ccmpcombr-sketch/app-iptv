@@ -31,112 +31,56 @@
       {
         "album": "FILMES E SÉRIES",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
-        "subAlbuns": [],
+        "subAlbuns": [
+          {
+            "subAlbum": "DIVERSOS",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png"
+          }
+        ],
         "itens": [
           {
             "nome": "A&E",
-            "descricao": "A&E (Arts & Entertainment Network)",
-            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/A%26E.PNG",
-            "urls": {
-              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208146.m3u8",
-              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208147.m3u8",
-              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208382.m3u8"
+            "streams": {
+              "FHD": "http://vrpro.fun:80/ThamiresPelentir/366028/1479383.m3u8",
+              "HD": "http://vrpro.fun:80/ThamiresPelentir/366028/208147.m3u8",
+              "SD": "http://vrpro.fun:80/ThamiresPelentir/366028/208382.m3u8"
             }
           }
         ]
-      },
-      {
-        "album": "CANAIS ABERTO",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "DOCUMENTÁRIOS",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "VARIEDADES",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/variedades.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "ESPORTES",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/esportes%2001.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "NOTICIAS",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/noticias.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "INFANTIL",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/infantil.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "CINE SKY",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/cine%20sky.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "DISCOVERY",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/dicovery.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "DISNEY+",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/disney%2B.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "ESPN",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/espn.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "GOAT",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/goat.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "HBO",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/hbo.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "MAX",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/max.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "PREMIERE",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/premiere.png",
-        "subAlbuns": [],
-        "itens": []
-      },
-      {
-        "album": "SPORTV",
-        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sportv.png",
-        "subAlbuns": [],
-        "itens": []
       }
     ],
-    "filmes": [],
-    "series": []
+    "filmes": [
+      {
+        "album": "Ação",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/a%C3%A7%C3%A3o.png",
+        "subAlbuns": [
+          {
+            "subAlbum": "007",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/capa%20sub-album.PNG"
+          }
+        ],
+        "itens": [
+          {
+            "nome": "007 A Serviço Secreto de Sua Majestade (1969)",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/007%20A%20Servi%C3%A7o%20Secreto%20de%20Sua%20Majestade%20(1969).PNG",
+            "url": "http://vrpro.fun:80/movie/ThamiresPelentir/366028/3914703.mp4"
+          }
+        ]
+      }
+    ],
+    "series": [
+      {
+        "album": "Gangues de Oslo",
+        "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/eCHXtsWHFQeQxR8VXuLuLpkhWhE.jpg",
+        "subAlbuns": [],
+        "itens": [
+          {
+            "nome": "Gangues de Oslo",
+            "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/eCHXtsWHFQeQxR8VXuLuLpkhWhE.jpg",
+            "url": "http://vrpro.fun:80/series/ThamiresPelentir/366028/3937012.mp4"
+          }
+        ]
+      }
+    ]
   }
 }
