@@ -269,6 +269,26 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8"
             }
+          },
+          {
+            "nome": "FUTURA",
+            "descricao": "O Canal Futura é uma emissora brasileira de televisão, com foco educativo e cultural",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FUTURA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727280.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102395.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102394.m3u8"
+            }
+          },
+          {
+            "nome": "REDE BRASIL",
+            "descricao": "A Rede Brasil de Televisão (RBTV), lançada em 2007 e com sede em São Paulo,  focada no entretenimento familiar",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/REDE%20BRASIL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208211.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208211.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208416.m3u8"
+            }
           }
         ]
       },
