@@ -289,6 +289,26 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208211.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208416.m3u8"
             }
+          },
+          {
+            "nome": "REDE TV",
+            "descricao": "A RedeTV! é uma emissora de televisão aberta comercial brasileira.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/REDE%20TV.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727291.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102399.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102398.m3u8"
+            }
+          },
+          {
+            "nome": "TERRA VIVA",
+            "descricao": "O Canal Terra Viva, fundado em 2005 e operado pelo Grupo Bandeirantes.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TERRA%20VIVA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208189.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208190.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208425.m3u8"
+            }
           }
         ]
       },
