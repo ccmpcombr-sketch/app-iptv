@@ -152,6 +152,16 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102017.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102018.m3u8"
             }
+          },
+          {
+            "nome": "TLC",
+            "descricao": "O TLC (sigla que originalmente significava The Learning Channel e, na América Latina.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TLC.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479436.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479437.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479438.m3u8"
+            }
           }
         ]
       },
