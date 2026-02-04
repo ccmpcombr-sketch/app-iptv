@@ -96,7 +96,7 @@
           {
             "nome": "CURTA!",
             "descricao": "O Curta! é um canal de televisão, independente, dedicado à exibição de conteúdos focados em artes, cultura e humanidades.",
-            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CURTA!.PNG",
+            "capa": "https://github.com/ccmpcombr-sketch/CAPAS/blob/main/ao%20vivo/CURTA!.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101987.m3u8",
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101986.m3u8",
@@ -105,7 +105,7 @@
           },
           {
             "nome": "FILM & ARTS",
-            "descricao": "O Film & Arts é um canal de televisão  latino-americano que se dedica a exibir conteúdo focado em artes.",
+            "descricao": "O Film & Arts é um canal de televisão por assinatura latino-americano que se dedica a exibir conteúdo focado em artes, cultura, cinema e entretenimento de alta qualidade, com uma forte ênfase em produções britânicas e europeias. ",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FILM%20%26%20ARTS.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101990.m3u8",
@@ -131,6 +131,26 @@
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167114.m3u8",
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167113.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167112.m3u8"
+            }
+          },
+          {
+            "nome": "SPACE",
+            "descricao": "Space é um canal de televisão transmitido na América Latina, com origem na Argentina.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SPACE.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102005.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102006.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102004.m3u8"
+            }
+          },
+          {
+            "nome": "TCM",
+            "descricao": "O TCM (Turner Classic Movies) é um canal de televisão, lançado em 1994 e pertencente à Warner Bros.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TCM.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102016.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102017.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102018.m3u8"
             }
           }
         ]
