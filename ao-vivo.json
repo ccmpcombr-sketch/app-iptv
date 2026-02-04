@@ -229,7 +229,28 @@
         "album": "CANAIS ABERTO",
         "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
         "subAlbuns": [],
-        "itens": []
+        "itens": [
+          {
+            "nome": "AGRO CANAL",
+            "descricao": "O Agro Canal é uma emissora do Sistema Brasileiro do Agronegócio (SBA).",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/AGRO%20CANAL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208148.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208149.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208397.m3u8"
+            }
+          },
+          {
+            "nome": "CANAL DO BOI",
+            "descricao": "O Canal do Boi é uma emissora brasileira pioneira e líder de audiência no agronegócio.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20DO%20BOI.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208152.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208215.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208384.m3u8"
+            }
+          }
+        ]
       },
       {
         "album": "DOCUMENTÁRIOS",
