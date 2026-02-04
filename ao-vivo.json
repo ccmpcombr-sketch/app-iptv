@@ -162,6 +162,26 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479437.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479438.m3u8"
             }
+          },
+          {
+            "nome": "TNT",
+            "descricao": "A TNT (anteriormente conhecida como Turner Network Television) é um canal de televisão de origem americana.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102019.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102020.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102020.m3u8"
+            }
+          },
+          {
+            "nome": "TNT NOVELAS",
+            "descricao": "O TNT Novelas é um canal de televisão latino-americano, parte do grupo Warner Bros.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT%20NOVELAS.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208234.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208235.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208450.m3u8"
+            }
           }
         ]
       },
