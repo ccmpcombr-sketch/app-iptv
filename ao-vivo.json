@@ -55,7 +55,7 @@
           },
           {
             "nome": "AXN",
-            "descricao": "Canal de televisão, de propriedade da Sony Pictures Entertainment, focado em entretenimento de ação, investigação e suspense.",
+            "descricao": "Canal de televisão, de propriedade da Sony Pictures Entertainment.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/axn.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101974.m3u8",
@@ -75,7 +75,7 @@
           },
           {
             "nome": "CANAL SONY",
-            "descricao": "O Sony Channel (anteriormente conhecido apenas como Canal Sony) é um canal de televisão da América Latina, distribuído pela Sony Pictures Television.",
+            "descricao": "O Sony Channel (anteriormente conhecido apenas como Canal Sony) é um canal de televisão da América Latina.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20SONY.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101980.m3u8",
@@ -95,7 +95,7 @@
           },
           {
             "nome": "CURTA!",
-            "descricao": "O Curta! é um canal de televisão, independente, dedicado à exibição de conteúdos focados em artes, cultura e humanidades.",
+            "descricao": "O Curta! é um canal de televisão, independente, dedicado à exibição de conteúdos focados em artes.",
             "capa": "https://github.com/ccmpcombr-sketch/CAPAS/blob/main/ao%20vivo/CURTA!.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101987.m3u8",
@@ -115,7 +115,7 @@
           },
           {
             "nome": "MEGAPIX",
-            "descricao": "O Megapix é um canal de TV brasileiro, especializado na exibição de filmes, pertencente ao Grupo Globo.",
+            "descricao": "O Megapix é um canal de TV brasileiro, especializado na exibição de filmes.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MEGAPIX.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/1429684.m3u8",
@@ -125,7 +125,7 @@
           },
           {
             "nome": "SONY MOVIES",
-            "descricao": "O Sony Movies é um canal de televisão por assinatura dedicado exclusivamente à exibição de filmes, lançado no Brasil em meados de 2022.",
+            "descricao": "O Sony Movies é um canal de televisão dedicado exclusivamente à exibição de filmes.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SONY%20MOVIES.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167114.m3u8",
