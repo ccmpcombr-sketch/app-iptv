@@ -249,6 +249,26 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208215.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208384.m3u8"
             }
+          },
+          {
+            "nome": "CANAL RURAL",
+            "descricao": "O CANAL RURAL é uma emissora brasileira pioneira e líder de audiência no agronegócio.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20RURAL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208213.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208424.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208424.m3u8"
+            }
+          },
+          {
+            "nome": "CNT",
+            "descricao": "A Rede CNT (Central Nacional de Televisão) é uma rede de televisão brasileira sediada em Curitiba, Paraná.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CNT.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8"
+            }
           }
         ]
       },
