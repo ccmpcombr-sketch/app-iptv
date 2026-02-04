@@ -212,6 +212,16 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208188.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208392.m3u8"
             }
+          },
+          {
+            "nome": "WARNER  CHANNEL",
+            "descricao": "O Warner Channel (ou Warner TV) é um dos principais canais de televisão na América Latina, de propriedade da Warner Bros.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/WARNER%20%20CHANNEL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102029.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102028.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102030.m3u8"
+            }
           }
         ]
       },
