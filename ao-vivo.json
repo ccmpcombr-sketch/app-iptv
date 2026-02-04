@@ -122,6 +122,16 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101998.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101996.m3u8"
             }
+          },
+          {
+            "nome": "SONY MOVIES",
+            "descricao": "O Sony Movies é um canal de televisão por assinatura dedicado exclusivamente à exibição de filmes, lançado no Brasil em meados de 2022.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SONY%20MOVIES.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167114.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167113.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167112.m3u8"
+            }
           }
         ]
       },
