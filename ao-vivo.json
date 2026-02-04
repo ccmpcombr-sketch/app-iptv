@@ -329,6 +329,26 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102401.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102402.m3u8"
             }
+          },
+          {
+            "nome": "TV CAMARA",
+            "descricao": "A TV Câmara é a rede de televisão pública da Câmara dos Deputados do Brasil.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20CAMARA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102404.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102405.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102403.m3u8"
+            }
+          },
+          {
+            "nome": "TV CULTURA",
+            "descricao": "A TV Cultura é uma renomada rede de televisão pública brasileira.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20CULTURA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208156.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102406.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102407.m3u8"
+            }
           }
         ]
       },
