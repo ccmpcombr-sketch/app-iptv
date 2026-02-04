@@ -309,6 +309,26 @@
               "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208190.m3u8",
               "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208425.m3u8"
             }
+          },
+          {
+            "nome": "TV ACRITICA",
+            "descricao": "A TV A Crítica (Canal 4 em Manaus) é uma rede de televisão brasileira independente.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ACRITICA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727294.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/727294.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/727295.m3u8"
+            }
+          },
+          {
+            "nome": "TV BRASIL",
+            "descricao": "A TV Brasil é uma rede de televisão pública brasileira, gerida pela Empresa Brasil de Comunicação (EBC).",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20BRASIL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102400.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102401.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102402.m3u8"
+            }
           }
         ]
       },
