@@ -352,7 +352,7 @@
           },
           {
             "nome": "TV GAZETA",
-            "descricao": "A TV Gazeta (São Paulo) é uma rede de televisão brasileira de caráter educativo/comercial",
+            "descricao": "A TV Gazeta (São Paulo) é uma rede de televisão brasileira de caráter educativo/comercial.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20GAZETA.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208196.m3u8",
