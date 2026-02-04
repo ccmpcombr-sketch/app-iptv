@@ -65,7 +65,7 @@
           },
           {
             "nome": "CANAL BRASIL",
-            "descricao": "O Canal Brasil é um canal de televisão brasileiro, lançado em 18 de setembro de 1998, dedicado exclusivamente à exibição de produções audiovisuais nacionais.",
+            "descricao": "O Canal Brasil é um canal de televisão brasileiro, lançado em 18 de setembro de 1998.",
             "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20BRASIL.PNG",
             "urls": {
               "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101977.m3u8",
