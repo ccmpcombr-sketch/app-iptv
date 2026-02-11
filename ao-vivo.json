@@ -3,7 +3,7 @@
     {
       "login": "Thamires Pelentir",
       "senha": "366028",
-      "foto": "https://i.imgur.com/8Km9tLL.png"
+      "foto": "https://i.imgur.com/8Km9tLL.png",
       "url_raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/ao-vivo.json",
       "url_page": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/ao-vivo.json"
     }
@@ -29,290 +29,461 @@
   "categorias": {
     "aovivo": [
       {
-        "album": "CANAIS",
-        "capa": "",
+        "album": "FILMES E SÉRIES",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+        "subAlbuns": [],
+        "itens": [
+          {
+            "nome": "A&E",
+            "descricao": "A&E (Arts & Entertainment Network)",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/A%26E.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208146.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208147.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208382.m3u8"
+            }
+          },
+          {
+            "nome": "AMC",
+            "descricao": "AMC (Um canal dedicado exclusivamente a Séries)",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/AMC.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208150.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208151.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208383.m3u8"
+            }
+          },
+          {
+            "nome": "AXN",
+            "descricao": "Canal de televisão, de propriedade da Sony Pictures Entertainment.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/axn.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101974.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101975.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101976.m3u8"
+            }
+          },
+          {
+            "nome": "CANAL BRASIL",
+            "descricao": "O Canal Brasil é um canal de televisão brasileiro, lançado em 18 de setembro de 1998.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20BRASIL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101977.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101978.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101979.m3u8"
+            }
+          },
+          {
+            "nome": "CANAL SONY",
+            "descricao": "O Sony Channel (anteriormente conhecido apenas como Canal Sony) é um canal de televisão da América Latina.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20SONY.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101980.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101981.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101982.m3u8"
+            }
+          },
+          {
+            "nome": "CINEMAX",
+            "descricao": "O Cinemax é um canal de televisão, parte do grupo Warner Bros. Discovery (junto com a HBO).",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINEMAX.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727325.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101984.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101985.m3u8"
+            }
+          },
+          {
+            "nome": "CURTA!",
+            "descricao": "O Curta! é um canal de televisão, independente, dedicado à exibição de conteúdos focados em artes.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CURTA!.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101987.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101986.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101988.m3u8"
+            }
+          },
+          {
+            "nome": "FILM & ARTS",
+            "descricao": "O Film & Arts é um canal de televisão latino-americano que se dedica a exibir conteúdo focado em artes.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FILM%20%26%20ARTS.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/101990.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101991.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101989.m3u8"
+            }
+          },
+          {
+            "nome": "MEGAPIX",
+            "descricao": "O Megapix é um canal de TV brasileiro, especializado na exibição de filmes.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MEGAPIX.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/1429684.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/101998.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/101996.m3u8"
+            }
+          },
+          {
+            "nome": "SONY MOVIES",
+            "descricao": "O Sony Movies é um canal de televisão dedicado exclusivamente à exibição de filmes.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SONY%20MOVIES.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167114.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167113.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/4167112.m3u8"
+            }
+          },
+          {
+            "nome": "SPACE",
+            "descricao": "Space é um canal de televisão transmitido na América Latina, com origem na Argentina.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SPACE.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102005.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102006.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102004.m3u8"
+            }
+          },
+          {
+            "nome": "TCM",
+            "descricao": "O TCM (Turner Classic Movies) é um canal de televisão, lançado em 1994 e pertencente à Warner Bros.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TCM.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102016.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102017.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102018.m3u8"
+            }
+          },
+          {
+            "nome": "TLC",
+            "descricao": "O TLC (sigla que originalmente significava The Learning Channel e, na América Latina.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TLC.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479436.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479437.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/1479438.m3u8"
+            }
+          },
+          {
+            "nome": "TNT",
+            "descricao": "A TNT (anteriormente conhecida como Turner Network Television) é um canal de televisão de origem americana.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102019.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102020.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102020.m3u8"
+            }
+          },
+          {
+            "nome": "TNT NOVELAS",
+            "descricao": "O TNT Novelas é um canal de televisão latino-americano, parte do grupo Warner Bros.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT%20NOVELAS.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208234.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208235.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208450.m3u8"
+            }
+          },
+          {
+            "nome": "TNT SERIES",
+            "descricao": "O TNT Séries é um canal de TV da Warner Bros. Discovery focado em séries de ação, drama, suspense",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT%20SERIES.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102021.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102022.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102024.m3u8"
+            }
+          },
+          {
+            "nome": "UNIVERSAL CHANNEL",
+            "descricao": "O Universal TV (anteriormente Universal Channel) é um canal de televisãoda NBCUniversal International Networks.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/UNIVERSAL%20CHANNEL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208204.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208205.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102025.m3u8"
+            }
+          },
+          {
+            "nome": "USA NETWORK",
+            "descricao": "O USA Network é um canal de TV, parte da NBC Universal, focado em entretenimento, séries dramáticas.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/USA%20NETWORK.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208187.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208188.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208392.m3u8"
+            }
+          },
+          {
+            "nome": "WARNER  CHANNEL",
+            "descricao": "O Warner Channel (ou Warner TV) é um dos principais canais de televisão na América Latina, de propriedade da Warner Bros.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/WARNER%20%20CHANNEL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102029.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102028.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102030.m3u8"
+            }
+          }
+        ]
+      },
+      {
+        "album": "CANAIS ABERTO",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
         "subAlbuns": [],
         "itens": [
           {
             "nome": "AGRO CANAL",
-            "descricao": "",
-            "capa": "https://logos.imperioapps.xyz/AGRO_CANAL.png",
+            "descricao": "O Agro Canal é uma emissora do Sistema Brasileiro do Agronegócio (SBA).",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/AGRO%20CANAL.PNG",
             "urls": {
-              "hd": "http://vrpro.fun:80/{user}/{pass}/208149.m3u8",
-              "sd": "http://vrpro.fun:80/{user}/{pass}/208397.m3u8"
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208148.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208149.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208397.m3u8"
             }
           },
           {
-            "nome": "AMAZON PRIME VIDEO 01",
-            "descricao": "",
-            "capa": "https://logos.imperioapps.xyz/PRIME_VIDEO.png",
-            "urls": "http://vrpro.fun:80/{user}/{pass}/785263.m3u8"
-          },
-          {
-            "nome": "AMAZON PRIME VIDEO 02",
-            "descricao": "",
-            "capa": "https://logos.imperioapps.xyz/PRIME_VIDEO.png",
-            "urls": "http://vrpro.fun:80/{user}/{pass}/3520298.m3u8"
-          },
-          {
-            "nome": "A&E",
-            "descricao": "",
-            "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/A&E.png",
+            "nome": "CANAL DO BOI",
+            "descricao": "O Canal do Boi é uma emissora brasileira pioneira e líder de audiência no agronegócio.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20DO%20BOI.PNG",
             "urls": {
-              "fhd": "http://vrpro.fun:80/{user}/{pass}/208146.m3u8",
-              "hd": "http://vrpro.fun:80/{user}/{pass}/208147.m3u8"
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208152.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208215.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208384.m3u8"
+            }
+          },
+          {
+            "nome": "CANAL RURAL",
+            "descricao": "O CANAL RURAL é uma emissora brasileira pioneira e líder de audiência no agronegócio.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20RURAL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208213.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208424.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208424.m3u8"
+            }
+          },
+          {
+            "nome": "CNT",
+            "descricao": "A Rede CNT (Central Nacional de Televisão) é uma rede de televisão brasileira sediada em Curitiba, Paraná.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CNT.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/727306.m3u8"
+            }
+          },
+          {
+            "nome": "FUTURA",
+            "descricao": "O Canal Futura é uma emissora brasileira de televisão, com foco educativo e cultural",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FUTURA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727280.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102395.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102394.m3u8"
+            }
+          },
+          {
+            "nome": "REDE BRASIL",
+            "descricao": "A Rede Brasil de Televisão (RBTV), lançada em 2007 e com sede em São Paulo,  focada no entretenimento familiar",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/REDE%20BRASIL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208211.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208211.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208416.m3u8"
+            }
+          },
+          {
+            "nome": "REDE TV",
+            "descricao": "A RedeTV! é uma emissora de televisão aberta comercial brasileira.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/REDE%20TV.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727291.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102399.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102398.m3u8"
+            }
+          },
+          {
+            "nome": "TERRA VIVA",
+            "descricao": "O Canal Terra Viva, fundado em 2005 e operado pelo Grupo Bandeirantes.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TERRA%20VIVA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208189.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208190.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208425.m3u8"
+            }
+          },
+          {
+            "nome": "TV ACRITICA",
+            "descricao": "A TV A Crítica (Canal 4 em Manaus) é uma rede de televisão brasileira independente.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ACRITICA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/727294.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/727294.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/727295.m3u8"
+            }
+          },
+          {
+            "nome": "TV BRASIL",
+            "descricao": "A TV Brasil é uma rede de televisão pública brasileira, gerida pela Empresa Brasil de Comunicação (EBC).",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20BRASIL.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102400.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102401.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102402.m3u8"
+            }
+          },
+          {
+            "nome": "TV CAMARA",
+            "descricao": "A TV Câmara é a rede de televisão pública da Câmara dos Deputados do Brasil.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20CAMARA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102404.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102405.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102403.m3u8"
+            }
+          },
+          {
+            "nome": "TV CULTURA",
+            "descricao": "A TV Cultura é uma renomada rede de televisão pública brasileira.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20CULTURA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208156.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102406.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102407.m3u8"
+            }
+          },
+          {
+            "nome": "TV GAZETA",
+            "descricao": "A TV Gazeta (São Paulo) é uma rede de televisão brasileira de caráter educativo/comercial.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20GAZETA.PNG",
+            "urls": {
+              "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208196.m3u8",
+              "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208197.m3u8",
+              "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208197.m3u8"
             }
           }
         ]
+      },
+      {
+        "album": "DOCUMENTÁRIOS",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "VARIEDADES",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/variedades.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "ESPORTES",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/esportes%2001.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "NOTICIAS",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/noticias.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "INFANTIL",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/infantil.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "CINE SKY",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/cine%20sky.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "DISCOVERY",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/dicovery.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "DISNEY+",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/disney%2B.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "ESPN",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/espn.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "GOAT",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/goat.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "HBO",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/hbo.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "MAX",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/max.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "PREMIERE",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/premiere.png",
+        "subAlbuns": [],
+        "itens": []
+      },
+      {
+        "album": "SPORTV",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sportv.png",
+        "subAlbuns": [],
+        "itens": []
       }
     ],
     "filmes": [
       {
-        "album": "♦️ Guerra ⚔",
-        "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
+        "album": "DRAMA",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/DRAMA.PNG",
         "subAlbuns": [],
         "itens": [
           {
-            "nome": "A Corte Marcial Da Nave Da Revolta (2023)",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3897223.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ UHD| 4K ⭐",
-        "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
-        "subAlbuns": [],
-        "itens": [
+            "nome": "O Quarto de Vidro (2019)",
+            "descricao": "um drama de época tcheco que narra a intensa história de amor e amizade entre Liesel Landauer (Hanna Alström) e Hana (Carice van Houten)",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/O%20QUARTO%20DE%20VIDRO.PNG",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/4160715.mp4"
+          },
           {
-            "nome": "A Corte Marcial Da Nave Da Revolta (2023) [4K]",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3899614.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Legendados ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "A Corte Marcial Da Nave Da Revolta (2023) [L]",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3920575.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Legendados ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/txO6bpWcWgjwernVkkpqbVpmABh.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "A Cozinha (2024) [L]",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/txO6bpWcWgjwernVkkpqbVpmABh.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3919357.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Família ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "A Cozinheira Curiosa: Receita Assassina (2022)",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3896304.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Ficcao Cientifica ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "A Cratera (2023)",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3898922.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Fantasia ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/s2R1xCxt6b1lkeEk33u86hqQDe6.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Cópias: De Volta à Vida (2018)",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/s2R1xCxt6b1lkeEk33u86hqQDe6.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3896909.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Romance ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/j0U1I5lz9ueoxqpCObKkKwS6clg.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Cúmplice em Fuga (2024)",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/j0U1I5lz9ueoxqpCObKkKwS6clg.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3900436.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Legendados ✔️",
-        "capa": "https://image.tmdb.org/t/p/w780/j0U1I5lz9ueoxqpCObKkKwS6clg.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Cúmplice em Fuga (2024) [L]",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/j0U1I5lz9ueoxqpCObKkKwS6clg.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3919672.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Terror ☠",
-        "capa": "https://image.tmdb.org/t/p/w780/zbI8Xc44P0KgNANNABenekOrM9q.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Cúpula do Caos (2024)",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/zbI8Xc44P0KgNANNABenekOrM9q.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3897503.mp4"
+            "nome": "#Comvocê: Volume 2 (2021)",
+            "descricao": "É uma antologia dramática e de comédia que retrata histórias pessoais de isolamento durante a pandemia da COVID-19.",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Comvoc%C3%AA%20%20Volume%202%202021.PNG",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3894647.mp4"
           }
         ]
       }
     ],
     "series": [
       {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-        "subAlbuns": [],
-        "itens": [
+        "album": "Novo Rico Novo Pobre",
+        "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Novo%20Rico%20Novo%20Pobre.PNG",
+        "subAlbuns": [
           {
-            "nome": "One Piece S14E569",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3927400.mp4"
+            "subAlbum": "1° TEMPORADA",
+            "itens": []
           }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-        "subAlbuns": [],
+        ],
         "itens": [
           {
-            "nome": "One Piece S14E570",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3927401.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "One Piece S14E571",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3927402.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "One Piece S14E572",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3927403.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "One Piece S14E573",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/471540363f0c7d476e446a5bfdacba78.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3927404.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Patrulha Canina S10E01",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3926490.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Patrulha Canina S10E02",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3926491.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Patrulha Canina S10E03",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3926492.mp4"
-          }
-        ]
-      },
-      {
-        "album": "♦️ Netflix",
-        "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-        "subAlbuns": [],
-        "itens": [
-          {
-            "nome": "Patrulha Canina S10E04",
-            "descricao": "",
-            "capa": "http://gstaticontent.com/images/vN9BE385YKPgumoyrOd8Z8yh6Nn_big.jpg",
-            "url": "http://vrpro.fun:80/{user}/{pass}/3926493.mp4"
+            "nome": "Novo Rico Novo Pobre ",
+            "descricao": "Episódio 01",
+            "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/series/Novo%20Rico%20Novo%20Pobre.PNG",
+            "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3926556.mp4"
           }
         ]
       }
