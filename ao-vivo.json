@@ -4,8 +4,8 @@
       "login": "Thamires Pelentir",
       "senha": "366028",
       "foto": "https://i.imgur.com/8Km9tLL.png",
-      "url_raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/ao-vivo.json",
-      "url_page": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/ao-vivo.json"
+      "url_raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais.json",
+      "url_page": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/canais.json"
     }
   ],
   "capas_categorias": {
@@ -28,7 +28,7 @@
   },
   "json_externos": {
     "aovivo": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais.json",
-    "filmes": "",
-    "series": ""
+    "filmes": null,
+    "series": null
   }
 }
