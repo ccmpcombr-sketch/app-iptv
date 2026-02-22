@@ -1,4 +1,6 @@
 {
+  "canais": [],
+  "filmes": [],
   "series": [
     {
       "album": "Netflix",
@@ -56,8 +58,115 @@
               "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3935573.mp4"
             }
           ]
+        },
+        {
+          "subAlbum": "1899",
+          "itens": [
+            {
+              "nome": "Ep 01",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/mx2KyBXAELVKZ3RezPwNqvuO2bk.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941354.mp4"
+            },
+            {
+              "nome": "Ep 02",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/dmjMR2eykpUTPiJdZyhOsg5QwPW.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941355.mp4"
+            },
+            {
+              "nome": "Ep 03",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/7fV80OdNrRUOanKuCPljlKoc2XV.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941356.mp4"
+            },
+            {
+              "nome": "Ep 04",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/qrpSmKHoY5O7poSAjdjgMWXMt8I.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941357.mp4"
+            },
+            {
+              "nome": "Ep 05",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/dB7UMBHWOSXVMJDTknZI5Veyb8s.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941358.mp4"
+            },
+            {
+              "nome": "Ep 06",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/3wsmDnmOUWRkfBbH1FWgA6iPUjI.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941359.mp4"
+            },
+            {
+              "nome": "Ep 07",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/j3Evm7CxhaTxZAXkjm6Gj3ML2qr.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941360.mp4"
+            },
+            {
+              "nome": "Ep 08",
+              "descricao": "",
+              "capa": "http://file.gstaticontent.com//t/p/w600_and_h900_bestv2/4gdW382UCMOjMKlfYi9XzCpHHZY.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3941361.mp4"
+            }
+          ]
+        },
+        {
+          "subAlbum": "1983",
+          "itens": [
+            {
+              "nome": "Ep 01",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/85bY4VBeJyXSuxSy14kUdg0KLGF_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946729.mp4"
+            },
+            {
+              "nome": "Ep 02",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/apnRyrOahNrKTwP6uCKgF0bXpnS_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946730.mp4"
+            },
+            {
+              "nome": "Ep 03",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/lAa6Ez8XoCcWPSE95NSHm74lDRo_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946731.mp4"
+            },
+            {
+              "nome": "Ep 04",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/eajuZTi3wgsNFgEnFwN3M1ettcf_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946732.mp4"
+            },
+            {
+              "nome": "Ep 05",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/nIAH6oYdjUnZjW0X2Ie6XpefKwC_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946733.mp4"
+            },
+            {
+              "nome": "Ep 06",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/AvbcOspZ708gSJY3bDzQCXhr3sC_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946734.mp4"
+            },
+            {
+              "nome": "Ep 07",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/fqNqSVh3IEiITvCWlwz3docpFCZ_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946735.mp4"
+            },
+            {
+              "nome": "Ep 08",
+              "descricao": "",
+              "capa": "http://gstaticontent.com/images/oLTpBky9vaNUrb7BPbPBi2cl0LD_small.jpg",
+              "url": "https://vrpro.fun:443/series/ThamiresPelentir/366028/3946736.mp4"
+            }
+          ]
         }
-      ]
+      ],
+      "itens": []
     }
   ]
 }
