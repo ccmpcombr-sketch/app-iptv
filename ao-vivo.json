@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "login": "Thamires Pelentir",
-      "senha": "366028",
+      "login": "",
+      "senha": "",
       "foto": "https://i.imgur.com/8Km9tLL.png",
       "url_raw": "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/canais.json",
       "url_page": "https://github.com/ccmpcombr-sketch/app-iptv/edit/main/canais.json"
