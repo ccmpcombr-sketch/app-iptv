@@ -6,18 +6,18 @@
       "subAlbuns": [],
       "itens": [
         {
-            "nome": "#Natal (2022) [L]",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/l0lH0hvU0XcPfhyRKydGjRKmXtf.jpg",
-            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919710.mp4"
-          },
-          {
-            "nome": "#PartiuFama: Cancelado no Amor (2022) [L]",
-            "descricao": "",
-            "capa": "https://image.tmdb.org/t/p/w780/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg",
-            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920710.mp4"
-          }
-        ]
-      }
-    ]
-  }
+          "nome": "#Natal (2022) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/l0lH0hvU0XcPfhyRKydGjRKmXtf.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919710.mp4"
+        },
+        {
+          "nome": "#PartiuFama: Cancelado no Amor (2022) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920710.mp4"
+        }
+      ]
+    }
+  ]
+}
