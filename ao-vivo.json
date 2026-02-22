@@ -36,6 +36,8 @@
       "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/filmes3.json",
       "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/filmes4.json"
     ],
-    "series": []
+    "series": [
+      "https://raw.githubusercontent.com/ccmpcombr-sketch/app-iptv/refs/heads/main/series1.json",
+    ],
   }
 }
