@@ -1,10 +1,23 @@
 {
+  "canais": [],
   "filmes": [
     {
       "album": "Legendados",
       "capa": "https://image.tmdb.org/t/p/w780/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg",
       "subAlbuns": [],
       "itens": [
+        {
+          "nome": "#Comvocê: Volume 2 (2021) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg",
+          "url": "https://image.tmdb.org/t/p/w780/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg"
+        },
+        {
+          "nome": "#ComVocê: Volume: 1 (2021) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/dEgBV4Tuo9jFZh7rFiQEbiY91sT.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922251.mp4"
+        },
         {
           "nome": "#Natal (2022) [L]",
           "descricao": "",
@@ -18,18 +31,714 @@
           "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920710.mp4"
         },
         {
-          "nome": "Tropa de Elite (2007)",
+          "nome": "#SeAcabó: Diário das Campeãs (2024) [L]",
           "descricao": "",
-          "capa": "https://image.tmdb.org/t/p/w780/atl4a9VFVP7JYvk4GeSgqhLOfjC.jpg",
-          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3912548.mp4"
+          "capa": "https://image.tmdb.org/t/p/w780/AbhsO718qA8qeHyF00FsvG7vt3f.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919687.mp4"
         },
         {
-          "nome": "Tropa de Elite 2: O Inimigo Agora é Outro (2010)",
+          "nome": "#SemSaída (2020) [L]",
           "descricao": "",
-          "capa": "https://image.tmdb.org/t/p/w780/xBv3KuOgaucTMVWRleBm9usrCc6.jpg",
-          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3912547.mp4"
-        }
-      ]
-    }
-  ]
-}
+          "capa": "https://image.tmdb.org/t/p/w780/fUCIj47O9v5zktS81hRWktUVnSR.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923302.mp4"
+        },
+        {
+          "nome": "#Sem_Filtro - Noite Sangrenta (2022) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/hlIXhMYMjxhppv2EagLNXXey5H5.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917626.mp4"
+        },
+        {
+          "nome": "(In) Seguros (2019) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/geqLzzDs1w08qojyFOD8eqlXFwz.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923038.mp4"
+        },
+        {
+          "nome": "(MAD)² (2025) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/lpDIBzzkyFoDqWTh46OqUEuGVxS.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918466.mp4"
+        },
+        {
+          "nome": "(Re)Nascer (2023) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/qjjwYBk21klwdD86bxPro54qqaC.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920589.mp4"
+        },
+        {
+          "nome": "+ Velozes + Furiosos (2003) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/mx0CB8H78PQu0g9YUWG47hdi93S.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918141.mp4"
+        },
+        {
+          "nome": "007 Contra Goldfinger (1964) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/aSFbyik1bd3xQxyPQbahdcaCYwT.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918016.mp4"
+        },
+        {
+          "nome": "007: Sem Tempo para Morrer (2021) [L]",
+          "descricao": "",
+          "capa": "https://image.tmdb.org/t/p/w780/luE0KG1rWfUptbgNtlNtL5sihyd.jpg",
+          "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922836.mp4"
+        },
+        {
+            "nome": "10 Dias de um Homem Curioso (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/oYfKed3vI58cNN86OxDZ1Ryrgft.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919658.mp4"
+          },
+          {
+            "nome": "10 Dias de um Homem Mau (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/fl0vUwiKyxEauecs9UCh8cGRzZH.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921602.mp4"
+          },
+          {
+            "nome": "10 Regras Para Salvar um Casamento (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/rcmoIeno4fh6QnNmg93TVNq8aj.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918996.mp4"
+          },
+          {
+            "nome": "100 Coisas (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/9PWSRATzT9Bu27BhqsIqMp7LcqS.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922983.mp4"
+          },
+          {
+            "nome": "100 Coisas para Fazer Antes de Virar Zumbi (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/lwyleO7PqNNkX66stvANWP01p9I.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921654.mp4"
+          },
+          {
+            "nome": "100 Dias para o Natal (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/imU6zKtkhcH49Ph4Etx7Np2w7nv.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922202.mp4"
+          },
+          {
+            "nome": "100 Escovadas Antes de Dormir (2005) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/eR0foDZSlDWt0Vy8STEEf0ioPph.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918748.mp4"
+          },
+          {
+            "nome": "100 Yards (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/aGaM8Vti9lcaBgFVjrMdNCoDanS.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923463.mp4"
+          },
+          {
+            "nome": "100% Lobo (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/n1oFUoYmj4JuJl5T417VQnZNCgB.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923521.mp4"
+          },
+          {
+            "nome": "101 Dálmatas (1996) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/wUgVfahHvlz8AIwJoNUAaFDtb7O.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918967.mp4"
+          },
+          {
+            "nome": "11/9: Ataque ao Pentágono (2016) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/cyOPVUkRJ4tOY7LFUn49qH3ol8A.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919042.mp4"
+          },
+          {
+            "nome": "12 Feet Deep (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/AvZxGVE34hDqRlFsmn8nu6wlg1K.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921404.mp4"
+          },
+          {
+            "nome": "12 Horas Para o Fim do Mundo (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/8leDrFajsIuKe10tCNncfAqBct3.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921072.mp4"
+          },
+          {
+            "nome": "12 Órfãos Poderosos (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/3N0nM4ouA500Xp5uSMpVazLNF0c.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923120.mp4"
+          },
+          {
+            "nome": "13 Exorcismos (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/8LpnMIqpRiwxpbGR33ALCmVl7gj.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921968.mp4"
+          },
+          {
+            "nome": "13 Minutos de Tormenta (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922568.mp4"
+          },
+          {
+            "nome": "137 Disparos (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/6SzCf03ItJIPBegMqXsYgxKMXZo.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919524.mp4"
+          },
+          {
+            "nome": "13: O Musical (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/3ndpRWh8iOvckVtHptIsD4OtayN.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922110.mp4"
+          },
+          {
+            "nome": "13: O Pavilhão da Morte (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/nDuz1NzV5NxoASF8Y7XezTqPSUG.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921211.mp4"
+          },
+          {
+            "nome": "14 Cartas de Amor (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/6JnnqQJdCoysMCumqfVKDQ0G7Yj.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922353.mp4"
+          },
+          {
+            "nome": "12 Noites (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/uEZvNgiOPOO1S2vsnJ1mABr2SQj.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921887.mp4"
+          },
+          {
+            "nome": "8 Mil Metros e 7 Meses (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/saGMNCD6ayFqmOb9mX2MkkMmW7w.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922831.mp4"
+          },
+          {
+            "nome": "15 Anos em Silêncio (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/cLS2Jo2hEJjV2mkyzpYpR8EEAOY.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918185.mp4"
+          },
+          {
+            "nome": "15 Minutes of Shame (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/lQrJOZbNUrzJLwXqPUKqZGJ5NoC.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922992.mp4"
+          },
+          {
+            "nome": "18 Anos Depois (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/rYAAusd41OrNI0n4bCOrtdwXvwn.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920017.mp4"
+          },
+          {
+            "nome": "18 Presentes (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/drfRlZj5ax9QYXqHJpbnzFnc5TB.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923205.mp4"
+          },
+          {
+            "nome": "1917 (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/m6VVgmwNdOWvLo8nlheLPQU5wr7.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923589.mp4"
+          },
+          {
+            "nome": "1978 (2025) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/zn7oyy7KTlC01XD3pUn82V9Od0P.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918306.mp4"
+          },
+          {
+            "nome": "1992 (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/HV5hFJsqogckCfHiAwgKpP9R1j.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919313.mp4"
+          },
+          {
+            "nome": "1BR: O Apartamento (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/aiYLasUoJXqOgJ9pnahDMELC9wf.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923534.mp4"
+          },
+          {
+            "nome": "20 Dias em Mariupol (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/21rFQUyP8SDJhWm6cpAbHdOL5f0.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920204.mp4"
+          },
+          {
+            "nome": "000 Espécies de Abelhas (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/tIsxkn1HTkWzWMMDTvViQSGwSHi.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918784.mp4"
+          },
+          {
+            "nome": "2020 Nunca Mais (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/qAZNgHeKLBrNgqO1cUo4QSPG2j2.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923303.mp4"
+          },
+          {
+            "nome": "2067 (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/7D430eqZj8y3oVkLFfsWXGRcpEG.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923379.mp4"
+          },
+          {
+            "nome": "24 Horas com Gaspar (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/wpEbqJ2UYMx1dCgQW6kRgNAlmo4.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920674.mp4"
+          },
+          {
+            "nome": "2:22 - Encontro Marcado (2017) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/48ZnyZi3KGrn1YOOco7xKWa57Vb.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917908.mp4"
+          },
+          {
+            "nome": "3 Working Days (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/nVnQk4fy7FknJ1gEumj1syywraw.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919472.mp4"
+          },
+          {
+            "nome": "3022 (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/dp1brl24LXGFU3JPFaDoljDONRz.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923357.mp4"
+          },
+          {
+            "nome": "365 Dias (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/3b1uR8Jggt1hWgtBbp42Mt3cwWe.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923520.mp4"
+          },
+          {
+            "nome": "365 Dias Finais (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922093.mp4"
+          },
+          {
+            "nome": "365 Dias: Hoje (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/3104lH1U1XfUXo0ZLawnIjXS0NC.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922459.mp4"
+          },
+          {
+            "nome": "4 Luas (2014) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/jIS07xojCgVHLDCYGzvlF9UllWJ.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923208.mp4"
+          },
+          {
+            "nome": "40 Acres (2025) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917854.mp4"
+          },
+          {
+            "nome": "40 Dias - O Milagre da Vida (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923685.mp4"
+          },
+          {
+            "nome": "400 Balas (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/burp795vripHCoq8VAT0Dm5SPE.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923264.mp4"
+          },
+          {
+            "nome": "42 Segundos (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/p39xPrQuxxgOSGgruDRc38FOe0w.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920203.mp4"
+          },
+          {
+            "nome": "438 Dias (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/88C3eml0THgk3gOV23XDotOppJv.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922498.mp4"
+          },
+          {
+            "nome": "50 Km Por Hora (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/kor8kbvxCausosbGENtUUV5N4SG.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919913.mp4"
+          },
+          {
+            "nome": "5000 Cobertas (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/gTFyCihik0dZWbREhSTyyxg3cOQ.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921599.mp4"
+          },
+          {
+            "nome": "57 Segundos (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/kRLNtJ0dWUHhNt20NijeWhnLJ5E.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920976.mp4"
+          },
+          {
+            "nome": "6 Balões (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/aqSQCTtehs7bF8VhpnAtrP5yUo.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919458.mp4"
+          },
+          {
+            "nome": "60 Minutos (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/n5wjsuYh954HLagCnqrLpPT8xi7.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920971.mp4"
+          },
+          {
+            "nome": "7 Dias com Você (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/xgHvMAtkzHhLRmh1NWvzeCG4gvF.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922054.mp4"
+          },
+          {
+            "nome": "7 Dias para Vegas (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/mklFTp3zDlQvZVrURvSrlANIAhs.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921462.mp4"
+          },
+          {
+            "nome": "70 é Apenas um Número (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/v9xe53U3h9sVbTGk6y6fdQe5G4z.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918427.mp4"
+          },
+          {
+            "nome": "72 Horas Depois (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/aYT218ykdkD1XHtcbMNBnOnTb1X.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923067.mp4"
+          },
+          {
+            "nome": "75 días (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/50i8ibosATVWZFaQtm6s1xaUnF3.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917653.mp4"
+          },
+          {
+            "nome": "7th & Union (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/14AKMCxtF11UlYXLyjmTP22vDtl.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922287.mp4"
+          },
+          {
+            "nome": "8/1 – A Democracia Resiste (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/7WwyrCZORz8qR2iizhUEZx5iZDu.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920994.mp4"
+          },
+          {
+            "nome": "85 South: Ghetto Legends (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/9R2Au4CbuzZC6GD2WeoNFc8V6zl.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920934.mp4"
+          },
+          {
+            "nome": "9 Dias Acordado (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/u0OT5BxI64iww8lytXDHXlLvALD.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922735.mp4"
+          },
+          {
+            "nome": "9 Satra: A Lenda do Muay Thai (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/pQPKRpI34LtQ16WKhYKqh1dIbMK.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922335.mp4"
+          },
+          {
+            "nome": "9: A Salvação (2009) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/6fe0PbMkDSaGEM6kj5RM5ToMuAL.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918881.mp4"
+          },
+          {
+            "nome": "A (Ex)periência do Amor (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/wUhJLbqoWopNTPXQFFlWqBORMyx.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917921.mp4"
+          },
+          {
+            "nome": "A Abelhinha Maya e O Ovo Dourado (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922780.mp4"
+          },
+          {
+            "nome": "A Academia do Sr. Kleks (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920328.mp4"
+          },
+          {
+            "nome": "A Alma da América (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/kqEFRpM6j4314nO2No6xYzhvAyx.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921689.mp4"
+          },
+          {
+            "nome": "A Amante do Meu Irmão (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/gKayea32syM6r3ydDvKCPs1Zrm9.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921722.mp4"
+          },
+          {
+            "nome": "A Anfitriã (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/nYf6MDUJCeeS73biahFNK3vcoOI.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921655.mp4"
+          },
+          {
+            "nome": "A Aparição (1986) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/xmKiLCYL0MK1wrRRPuu7lsGPoJs.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918379.mp4"
+          },
+          {
+            "nome": "A Aposta (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/bMfnxFHXD5VBh6m0RBUkZoaYIYc.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921494.mp4"
+          },
+          {
+            "nome": "A Aranha Negra (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/AkwflqboRNXvwwdY9d5fHijztjL.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921638.mp4"
+          },
+          {
+            "nome": "A Arte da Sobrevivência (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/lxRlS1EN0ByrhqkisV41l0havin.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921419.mp4"
+          },
+          {
+            "nome": "A Arte de Amar (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/8B5kcNrZUocXZMG80NWhroz94mf.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920673.mp4"
+          },
+          {
+            "nome": "A Arte do Caos (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/oB6jKj6V7wWl8268HtauSbZgLrt.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917979.mp4"
+          },
+          {
+            "nome": "A Assistente (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/36R8qqx51WE7IkHcn4BohLzLqGY.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923547.mp4"
+          },
+          {
+            "nome": "A Avaliação (2025) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/c1NQYiimXdMnSKPE5x8D1c7bSDr.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918661.mp4"
+          },
+          {
+            "nome": "A Aventura da Minha Vida (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/ug5Tf2beCLfaA97TZad8gHu7E2.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920746.mp4"
+          },
+          {
+            "nome": "A Babá: O Chamado das Sombras (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922649.mp4"
+          },
+          {
+            "nome": "A Bailarina (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/zrL3C3YPiuFchLgQVYSlYZyx15G.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921417.mp4"
+          },
+          {
+            "nome": "A Barbárie (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/hIpVLbts9QKGkRJreMtVegq9akh.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918797.mp4"
+          },
+          {
+            "nome": "A Barraca do Beijo 3 (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/rnxc5X7r2KQtkK3ZLuve4Qbvdz.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923168.mp4"
+          },
+          {
+            "nome": "A Batalha das Ardenas: A Última Ofensiva de Hitler (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921850.mp4"
+          },
+          {
+            "nome": "A Batalha de Natal (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/7xz7evAsp4wqwSBSZLnNd13wBZt.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921156.mp4"
+          },
+          {
+            "nome": "A Batalha de um Guerreiro (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/kd0ZTb0jxklGQBhRt1eyE6tTVy6.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918136.mp4"
+          },
+          {
+            "nome": "A Batalha do Biscoito Pop-Tart (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/gzlOgNUz6qaBPFRSb9ixsg5b3yN.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920495.mp4"
+          },
+          {
+            "nome": "A Batalha Esquecida (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922978.mp4"
+          },
+          {
+            "nome": "A Batida Perfeita (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/bmBTeTQFVLrhqErx8Nen0QiL3Mm.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923445.mp4"
+          },
+          {
+            "nome": "A Besta (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/epZeoQT10JNlAG422H2uC6KKxXp.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918448.mp4"
+          },
+          {
+            "nome": "A Boa Metade (2024) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/mKn0Etz3jN4OeRHpaOZb42ecvSM.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919889.mp4"
+          },
+          {
+            "nome": "A Bolha (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/uog089YZqlMAplQwg68GQ4sexdY.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922509.mp4"
+          },
+          {
+            "nome": "A Bota de Natal (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/qx6OHPTnO5yQNdmgn7BDHDDBGSy.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923091.mp4"
+          },
+          {
+            "nome": "A Breve História da Longa Estrada (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/chTc0F8B9YOiwZDea5LJ8h2q2Qx.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923481.mp4"
+          },
+          {
+            "nome": "A Bruxa - Parte 2: A Colisão (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/cah6iIYQBctvCmBjsKGb1NCiygr.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921339.mp4"
+          },
+          {
+            "nome": "A Bruxa da Casa ao Lado (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/7TmNhEKfTg9Yya0trhMou1V6gUf.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923443.mp4"
+          },
+          {
+            "nome": "A Bruxa do Bosque (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/zM2ACidkiuHZBTVtBOjyupvH5pS.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919319.mp4"
+          },
+          {
+            "nome": "A Bruxa do Gelo (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/nE8kvNUcEQ1HhILzT5gDPM5Lj25.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921055.mp4"
+          },
+          {
+            "nome": "A Bruxa dos Doces (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/egxBjIqHhpFpA4VlpZkcKZx5iTJ.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922806.mp4"
+          },
+          {
+            "nome": "A Bruxa dos Mortos: Baghead (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/hV1duOiPt8o4JxUltlSbYXMJehf.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920576.mp4"
+          },
+          {
+            "nome": "A Bússola Mágica (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/29aWzjCPOTvhglqLtSVf3MdJ81d.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3919369.mp4"
+          },
+          {
+            "nome": "A Caminho do Verão (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3922445.mp4"
+          },
+          {
+            "nome": "A Carga (2018) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/pIHqEw6TZIRS9AhifauEoIiyBz5.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920688.mp4"
+          },
+          {
+            "nome": "A Casa (2021) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/cizUtoy1wRLhqnFu9EnI5TlQGFM.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3920852.mp4"
+          },
+          {
+            "nome": "A Casa Assombrada em Michigan (2023) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/cbkvw3bFTynQf8ZTUKdFifWJUGq.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918346.mp4"
+          },
+          {
+            "nome": "A Casa Caiu: Um Cassino na Vizinhança (2017) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/wylaeJPrbD7o66cralfREtrfeZQ.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918193.mp4"
+          },
+          {
+            "nome": "A Casa da Praia (2020) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/wyMjZJNAsvfnW8OS4JWh6TdKWzk.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3923472.mp4"
+          },
+          {
+            "nome": "A Casa do Terror (2019) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/pRapSkoVtHeXDPfUP4883njzIJ3.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3918771.mp4"
+          },
+          {
+            "nome": "A Casa Entre Cactos (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/dg8FSbFpHJecWA7RGjKjDwaWrJO.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3917950.mp4"
+          },
+          {
+            "nome": "12 Vésperas de Natal (2022) [L]",
+            "descricao": "",
+            "capa": "https://image.tmdb.org/t/p/w780/a4H5tXCqSs40GLjpmIxJn42Gwcb.jpg",
+            "url": "https://vrpro.fun:443/movie/ThamiresPelentir/366028/3921226.mp4"
+          }
+       ]
+     }
+   ]
+ }
