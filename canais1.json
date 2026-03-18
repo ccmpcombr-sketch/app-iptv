@@ -334,12 +334,22 @@
         },
         {
           "nome": "BAND SP",
-          "descricao": "A Band é uma das principais redes de televisão aberta do Brasil, conhecida por sua forte atuação no jornalismo, esportes e entretenimento.",
+          "descricao": "",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/band.png",
           "urls": {
             "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102793.m3u8",
             "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102794.m3u8",
             "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208415.m3u8"
+          }
+        },
+        {
+          "nome": "GLOBO SP",
+          "descricao": "A TV Globo é a maior rede de televisão comercial do Brasil e da América Latina, fundada em 1965.",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/globo.png",
+          "urls": {
+            "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/784469.m3u8",
+            "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/784470.m3u8",
+            "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/784471.m3u8"
           }
         }
       ]
