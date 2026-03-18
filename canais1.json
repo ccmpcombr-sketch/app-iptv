@@ -321,8 +321,48 @@
             "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/102406.m3u8",
             "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/102407.m3u8"
           }
+        },
+        {
+          "nome": "TV GAZETA",
+          "descricao": "A TV Gazeta (São Paulo) é uma rede de televisão brasileira de caráter educativo/comercial.",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20GAZETA.PNG",
+          "urls": {
+            "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208196.m3u8",
+            "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208197.m3u8",
+            "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208197.m3u8"
+          }
         }
       ]
+    },
+    {
+      "album": "DOCUMENTÁRIOS",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png\",",
+      "subAlbuns": [],
+      "itens": []
+    },
+    {
+      "album": "VARIEDADES",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/variedades.png",
+      "subAlbuns": [],
+      "itens": []
+    },
+    {
+      "album": "ESPORTES",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/esportes%2001.png",
+      "subAlbuns": [],
+      "itens": []
+    },
+    {
+      "album": "NOTICIAS",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/noticias.png",
+      "subAlbuns": [],
+      "itens": []
+    },
+    {
+      "album": "INFANTIL",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/infantil.png",
+      "subAlbuns": [],
+      "itens": []
     }
   ],
   "filmes": [],
