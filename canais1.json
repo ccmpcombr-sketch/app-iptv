@@ -354,7 +354,7 @@
         },
         {
           "nome": "SBT SP",
-          "descricao": "O SBT (Sistema Brasileiro de Televisão) é uma das principais redes de televisão aberta do Brasil, fundada em 19 de agosto de 1981 pelo apresentador e empresário Silvio Santos.",
+          "descricao": "O SBT (Sistema Brasileiro de Televisão) é uma das principais redes de televisão aberta do Brasil, fundada em 19 de agosto de 1981.",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sbt.png",
           "urls": {
             "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/91854.m3u8",
