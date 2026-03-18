@@ -334,7 +334,7 @@
         },
         {
           "nome": "BAND SP",
-          "descricao": "A Band (Rede Bandeirantes) é uma das principais redes de televisão aberta do Brasil, conhecida por sua forte atuação no jornalismo, esportes e entretenimento. Faz parte do Grupo Bandeirantes de Comunicação.",
+          "descricao": "A Band é uma das principais redes de televisão aberta do Brasil, conhecida por sua forte atuação no jornalismo, esportes e entretenimento.",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/band.png",
           "urls": {
             "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/102793.m3u8",
