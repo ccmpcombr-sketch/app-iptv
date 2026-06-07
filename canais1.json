@@ -206,16 +206,6 @@
           }
         },
         {
-          "nome": "MEGAPIX",
-          "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/MEGAPIX.png",
-          "urls": {
-            "fhd": "http://servidor/{user}/{pass}/1429684.m3u8",
-            "hd": "http://servidor/{user}/{pass}/101998.m3u8",
-            "sd": "http://servidor/{user}/{pass}/101996.m3u8"
-          }
-        },
-        {
           "nome": "STUDIO UNIVERSAL",
           "descricao": "",
           "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/STUDIOUNIVESAL.png",
