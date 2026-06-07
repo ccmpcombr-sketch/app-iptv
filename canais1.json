@@ -10,9 +10,9 @@
           "descricao": "A&E (Arts & Entertainment Network)",
           "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/A%26E.PNG",
           "urls": {
-            "fhd": "https://vrpro.fun:443/ThamiresPelentir/366028/208146.m3u8",
-            "hd": "https://vrpro.fun:443/ThamiresPelentir/366028/208147.m3u8",
-            "sd": "https://vrpro.fun:443/ThamiresPelentir/366028/208382.m3u8"
+            "fhd": "http://servidor/{user}/{pass}/208146.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208147.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208382.m3u8"
           }
         },
         {
