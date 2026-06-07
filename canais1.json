@@ -503,7 +503,7 @@
           }
         },
         {
-          "nome": "Adult Swim",
+          "nome": "NATAÇÃO ADULTO",
           "descricao": "",
           "capa": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1753460583789",
           "urls": {
@@ -1801,7 +1801,7 @@
     },
     {
       "album": "PREMIERE",
-      "capa": "https://cdn.arrascacrf.site/logos/ESPORTES/PREMIERE.png",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/premiere.png",
       "subAlbuns": [],
       "itens": [
         {
@@ -1888,7 +1888,7 @@
     },
     {
       "album": "RELIGIOSO",
-      "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/RFTV_logo_2023.png/533px-RFTV_logo_2023.png",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/religioso.png",
       "subAlbuns": [],
       "itens": [
         {
@@ -1985,7 +1985,7 @@
     },
     {
       "album": "SPORTV",
-      "capa": "https://cdn.arrascacrf.site/logos/ESPORTES/SPORTV.png",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sportv.png",
       "subAlbuns": [],
       "itens": [
         {
