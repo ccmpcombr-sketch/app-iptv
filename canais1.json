@@ -305,7 +305,7 @@
         {
           "nome": "TV ACRITICA",
           "descricao": "A TV A Crítica (Canal 4 em Manaus) é uma rede de televisão brasileira independente.",
-          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ACRITICA.PNG",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ACRITICA.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/727294.m3u8",
             "hd": "http://servidor/{user}/{pass}/727294.m3u8",
@@ -385,7 +385,7 @@
         {
           "nome": "BOA VONTADE TV",
           "descricao": "",
-          "capa": "https://upload.wikimedia.org/wikipedia/pt/b/b0/Logotipo_Legi%C3%A3o_da_Boa_Vontade.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/BOA%20VONTADE%20TV.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99367.m3u8",
             "hd": "http://servidor/{user}/{pass}/99376",
@@ -405,7 +405,7 @@
         {
           "nome": "CANCAO NOVA",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/CANCAO_NOVA.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANCAO%20NOVA.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99345.m3u8",
             "hd": "http://servidor/{user}/{pass}/99363.m3u8",
@@ -425,7 +425,7 @@
         {
           "nome": "DOG TV",
           "descricao": "",
-          "capa": "http://imagecdn.sh:80/images/2ecd0b43c0ba5f0fac0f9fbb98bb79cd.jpg",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DOG%20TV.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/94206.m3u8",
             "hd": "http://servidor/{user}/{pass}/94207.m3u8",
@@ -435,7 +435,7 @@
         {
           "nome": "GNT",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/GNT.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/GNT.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99949.m3u8",
             "hd": "http://servidor/{user}/{pass}/99950.m3u8",
@@ -455,7 +455,7 @@
         {
           "nome": "TV APARECIDA",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/APARECIDA.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20APARECIDA.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99355.m3u8",
             "hd": "http://servidor/{user}/{pass}/99356.m3u8",
@@ -465,7 +465,7 @@
         {
           "nome": "TV ESCOLA",
           "descricao": "",
-          "capa": "https://i.imgur.com/H2zGLTU.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ESCOLA%2002.jpeg",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/102410.m3u8",
             "hd": "http://servidor/{user}/{pass}/102409.m3u8",
@@ -475,7 +475,7 @@
         {
           "nome": "TV EVANGELIZAR",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/TV_EVANGELIZAR.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20EVANGELIZAR.jpeg",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99369.m3u8",
             "hd": "http://servidor/{user}/{pass}/99368.m3u8",
@@ -485,7 +485,7 @@
         {
           "nome": "TV SENADO",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/TV_SENADO.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20SENADO.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/102414.m3u8",
             "hd": "http://servidor/{user}/{pass}/102414.m3u8",
@@ -495,7 +495,7 @@
         {
           "nome": "VIVA",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/VIVA.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/VIVA.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99964.m3u8",
             "hd": "http://servidor/{user}/{pass}/99966.m3u8",
@@ -505,7 +505,7 @@
         {
           "nome": "NATAÇÃO ADULTO",
           "descricao": "",
-          "capa": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDYwX2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1753460583789",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NATA%C3%87%C3%83O%20ADULTO.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/4167168.m3u8",
             "hd": "http://servidor/{user}/{pass}/4167168.m3u8",
@@ -515,7 +515,7 @@
         {
           "nome": "BBC",
           "descricao": "",
-          "capa": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjE4X2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1753461478909",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/BBC%20NEWS%2002.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/4167170.m3u8",
             "hd": "http://servidor/{user}/{pass}/4167170.m3u8",
@@ -2146,7 +2146,7 @@
     },
     {
       "album": "24H",
-      "capa": "https://i.imgur.com/g38NRFw.png",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/24H.png",
       "subAlbuns": [],
       "itens": [
         {
@@ -3977,16 +3977,6 @@
             "fhd": "http://servidor/{user}/{pass}/3330549.m3u8",
             "hd": "http://servidor/{user}/{pass}/3330549.m3u8",
             "sd": "http://servidor/{user}/{pass}/3330549.m3u8"
-          }
-        },
-        {
-          "nome": "",
-          "descricao": "",
-          "capa": "",
-          "urls": {
-            "fhd": "",
-            "hd": "",
-            "sd": ""
           }
         },
         {
