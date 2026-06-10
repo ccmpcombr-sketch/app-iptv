@@ -532,7 +532,7 @@
         {
           "nome": "HGTV",
           "descricao": "",
-          "capa": "http://cdn.arrascacrf.site/logos/DOCUMENTARIOS/HGTV.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HGTV.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/208170.m3u8",
             "hd": "http://servidor/{user}/{pass}/208171.m3u8",
@@ -542,7 +542,7 @@
         {
           "nome": "HISTORY 2",
           "descricao": "",
-          "capa": "http://cdn.arrascacrf.site/logos/DOCUMENTARIOS/HISTORY2.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HISTORY%202.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/94212.m3u8",
             "hd": "http://servidor/{user}/{pass}/94213.m3u8",
@@ -552,7 +552,7 @@
         {
           "nome": "HISTORY CHANNEL",
           "descricao": "",
-          "capa": "http://cdn.arrascacrf.site/logos/DOCUMENTARIOS/HISTORY.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HISTORY%20CHANNEL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/94214.m3u8",
             "hd": "http://servidor/{user}/{pass}/94215.m3u8",
@@ -562,7 +562,7 @@
         {
           "nome": "HISTORY",
           "descricao": "",
-          "capa": "http://cdn.arrascacrf.site/logos/DOCUMENTARIOS/HISTORY.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HISTORY.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/1479625.m3u8",
             "hd": "http://servidor/{user}/{pass}/1479625.m3u8",
@@ -572,7 +572,7 @@
         {
           "nome": "MODO VIAGEM",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/MODO_VIAGEM.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MODO%20VIAGEM.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/727284.m3u8",
             "hd": "http://servidor/{user}/{pass}/727285.m3u8",
@@ -589,7 +589,7 @@
         {
           "nome": "MULTISHOW",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/MULTISHOW.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MULT%20SHOW.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99957.m3u8",
             "hd": "http://servidor/{user}/{pass}/99958.m3u8",
@@ -599,7 +599,7 @@
         {
           "nome": "MUSIC BOX BRASIL",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/MUSIC_BOX.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MUSIC%20BOX%20BRASIL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/727288.m3u8",
             "hd": "http://servidor/{user}/{pass}/727289.m3u8",
@@ -609,7 +609,7 @@
         {
           "nome": "PRIME BOX BRAZIL",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/PRIME_BOX.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PRIME%20BOX%20BRASIL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/208359.m3u8",
             "hd": "http://servidor/{user}/{pass}/208359.m3u8",
@@ -619,7 +619,7 @@
         {
           "nome": "RBATV",
           "descricao": "",
-          "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/Logotipo_da_RBATV.png/200px-Logotipo_da_RBATV.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/RBA%20TV.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/727307.m3u8",
             "hd": "http://servidor/{user}/{pass}/727307.m3u8",
@@ -629,7 +629,7 @@
         {
           "nome": "SPACE",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/FILMESESERIES/SPACE.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SPACE.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/102005.m3u8",
             "hd": "http://servidor/{user}/{pass}/102006.m3u8",
@@ -639,7 +639,7 @@
         {
           "nome": "TRACE BRAZUCA",
           "descricao": "",
-          "capa": "https://br.trace.company/wp-content/uploads/2019/10/TRACE-BRAZUCA-logo-rgb.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TRACE%20BRAZUCA.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/208420.m3u8",
             "hd": "http://servidor/{user}/{pass}/208420.m3u8",
@@ -649,7 +649,7 @@
         {
           "nome": "TRAVEL BOX  BRAZIL",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/TRAVELBOX.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TRAVEL%20BOX%20BRASIL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99963.m3u8",
             "hd": "http://servidor/{user}/{pass}/99963.m3u8",
@@ -666,7 +666,7 @@
         {
           "nome": "CAZE TV 1",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/CAZE_TV.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CAZ%C3%89%20TV.png",
           "urls": {
             "fhd": "",
             "hd": "",
@@ -676,7 +676,7 @@
         {
           "nome": "CAZE TV 2",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/CAZE_TV.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CAZ%C3%89%20TV.png",
           "urls": {
             "fhd": "",
             "hd": "",
@@ -686,7 +686,7 @@
         {
           "nome": "CAZE TV 3",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/CAZE_TV.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CAZ%C3%89%20TV.png",
           "urls": {
             "fhd": "",
             "hd": "",
