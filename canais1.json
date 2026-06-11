@@ -696,7 +696,7 @@
         {
           "nome": "COMBATE",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/ESPORTES/COMBATE.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/COMBATE.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/101019.m3u8",
             "hd": "http://servidor/{user}/{pass}/101020.m3u8",
@@ -706,7 +706,7 @@
         {
           "nome": "DAZN 01",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/DANZ.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DAZN.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/785266.m3u8",
             "hd": "http://servidor/{user}/{pass}/785266.m3u8",
@@ -716,7 +716,7 @@
         {
           "nome": "JOVEM PAN NEWS",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/JOVEM_PAN.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/JOVEM%20PAN%20NEWS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/97951.m3u8",
             "hd": "http://servidor/{user}/{pass}/97952.m3u8",
@@ -726,7 +726,7 @@
         {
           "nome": "NSPORTS",
           "descricao": "",
-          "capa": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NSPORTS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/785285.m3u8",
             "hd": "http://servidor/{user}/{pass}/785285.m3u8",
@@ -736,7 +736,7 @@
         {
           "nome": "OFF",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/ESPORTES/OFF.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/OFF.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/101021.m3u8",
             "hd": "http://servidor/{user}/{pass}/101022.m3u8",
@@ -746,7 +746,7 @@
         {
           "nome": "WOOHOO",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/ESPORTES/Woohoo.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/WOOHOO.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99968.m3u8",
             "hd": "http://servidor/{user}/{pass}/99969.m3u8",
@@ -756,7 +756,7 @@
         {
           "nome": "XSPORTS",
           "descricao": "",
-          "capa": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Xsports_logo.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/XSPORTS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/4167115.m3u8",
             "hd": "http://servidor/{user}/{pass}/4167116.m3u8",
@@ -773,7 +773,7 @@
         {
           "nome": "CANAL UOL",
           "descricao": "",
-          "capa": "http://dns.watchplay.top:80/images/Un4QOaLwRiP7YnLrYV52zZPdKs33zRKif8AD9EXMtDPUpQ7XLSYBIrQFsWk6_fatBH5ln6eegQnjoUDcTFuK1GbLYSUx6D4bj-QFKVbSii0.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/UOL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/776551.m3u8",
             "hd": "http://servidor/{user}/{pass}/776551.m3u8",
@@ -783,7 +783,7 @@
         {
           "nome": "CNN BRASIL",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/CNN_BRASIL.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CNN%20BRASIL.jpeg",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/97948.m3u8",
             "hd": "http://servidor/{user}/{pass}/97949.m3u8",
@@ -813,7 +813,7 @@
         {
           "nome": "GLOBO NEWS",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/GLOBO_NEWS.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/GLOBO%20NEWS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/96575.m3u8",
             "hd": "http://servidor/{user}/{pass}/96576.m3u8",
@@ -823,7 +823,7 @@
         {
           "nome": "RECORD NEWS",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/RECORD_NEWS.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/RECORD%20NEWS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/97954.m3u8",
             "hd": "http://servidor/{user}/{pass}/97955.m3u8",
@@ -833,7 +833,7 @@
         {
           "nome": "SBT News",
           "descricao": "",
-          "capa": "https://raphmx00.com/sbtnews.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SBT%20NEWS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/4167315.m3u8",
             "hd": "http://servidor/{user}/{pass}/4167315.m3u8",
