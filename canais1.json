@@ -850,7 +850,7 @@
         {
           "nome": "CARTOON NETWORK",
           "descricao": "",
-          "capa": "http://cdn.arrascacrf.site/logos/INFANTIL/CARTOONNETWORK.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CARTOON%20NETWORK.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/94576.m3u8",
             "hd": "http://servidor/{user}/{pass}/94577.m3u8",
@@ -880,7 +880,7 @@
         {
           "nome": "CARTOON NETWORK",
           "descricao": "",
-          "capa": "",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CARTOON%20NETWORK.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/102024.m3u8",
             "hd": "http://servidor/{user}/{pass}/102024.m3u8",
@@ -927,7 +927,7 @@
         {
           "nome": "Cine Sky 01",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456091.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456091.m3u8",
@@ -937,7 +937,7 @@
         {
           "nome": "Cine Sky 02",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456092.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456092.m3u8",
@@ -947,7 +947,7 @@
         {
           "nome": "Cine Sky 03",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456093.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456093.m3u8",
@@ -957,7 +957,7 @@
         {
           "nome": "Cine Sky 04",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456094.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456094.m3u8",
@@ -967,7 +967,7 @@
         {
           "nome": "Cine Sky 05",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456095.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456095.m3u8",
@@ -977,7 +977,7 @@
         {
           "nome": "Cine Sky 06",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456096.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456096.m3u8",
@@ -987,7 +987,7 @@
         {
           "nome": "Cine Sky 07",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456097.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456097.m3u8",
@@ -997,7 +997,7 @@
         {
           "nome": "Cine Sky 08",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456098.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456098.m3u8",
@@ -1007,7 +1007,7 @@
         {
           "nome": "Cine Sky 09",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456099.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456099.m3u8",
@@ -1017,7 +1017,7 @@
         {
           "nome": "Cine Sky 10",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456100.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456100.m3u8",
@@ -1027,7 +1027,7 @@
         {
           "nome": "Cine Sky 11",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456101.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456101.m3u8",
@@ -1037,7 +1037,7 @@
         {
           "nome": "Cine Sky 12",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456102.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456102.m3u8",
@@ -1047,7 +1047,7 @@
         {
           "nome": "Cine Sky 13",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456103.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456103.m3u8",
@@ -1057,7 +1057,7 @@
         {
           "nome": "Cine Sky 14",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456104.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456104.m3u8",
@@ -1067,7 +1067,7 @@
         {
           "nome": "Cine Sky 15",
           "descricao": "",
-          "capa": "https://i.imgur.com/N0YfGEs.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/3456090.m3u8",
             "hd": "http://servidor/{user}/{pass}/3456090.m3u8",
@@ -1084,7 +1084,7 @@
         {
           "nome": "DISCOVERY  H&H",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/DISCOVERY/H&H.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20H%26H.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/208157.m3u8",
             "hd": "http://servidor/{user}/{pass}/208158.m3u8",
@@ -1094,7 +1094,7 @@
         {
           "nome": "DISCOVERY CHANNEL",
           "descricao": "",
-          "capa": "http://deylernew.xyz/logos/DISCOVERY/CHANNEL.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20CHANNEL.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/196480.m3u8",
             "hd": "http://servidor/{user}/{pass}/196487.m3u8",
@@ -1104,7 +1104,7 @@
         {
           "nome": "DISCOVERY ID",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/DISCOVERY/ID.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20ID.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/92128.m3u8",
             "hd": "http://servidor/{user}/{pass}/92129.m3u8",
@@ -1114,7 +1114,7 @@
         {
           "nome": "DISCOVERY KIDS",
           "descricao": "",
-          "capa": "http://cdn.arrascacrf.site/logos/INFANTIL/DISCOVERYKIDS.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20KIDS.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/94566.m3u8",
             "hd": "http://servidor/{user}/{pass}/94567.m3u8",
@@ -1124,7 +1124,7 @@
         {
           "nome": "DISCOVERY SCIENCE",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/DISCOVERY/SCIENCE.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20SCIENCE%2002.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/208159.m3u8",
             "hd": "http://servidor/{user}/{pass}/92130.m3u8",
@@ -1134,7 +1134,7 @@
         {
           "nome": "DISCOVERY THEATER",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/DISCOVERY/THEATER.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20THEATER.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/208160.m3u8",
             "hd": "http://servidor/{user}/{pass}/208161.m3u8",
@@ -1144,7 +1144,7 @@
         {
           "nome": "DISCOVERY TLC",
           "descricao": "",
-          "capa": "https://logos.imperioapps.xyz/TLC.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20TLC.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/99961.m3u8",
             "hd": "http://servidor/{user}/{pass}/99962.m3u8",
@@ -1154,7 +1154,7 @@
         {
           "nome": "DISCOVERY TURBO",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/DISCOVERY/TURBO.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20TURBO.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/92134.m3u8",
             "hd": "http://servidor/{user}/{pass}/92136.m3u8",
@@ -1162,9 +1162,9 @@
           }
         },
         {
-          "nome": "DISCOVERY WORLD",
+          "nome": "DISCOVERY WORD",
           "descricao": "",
-          "capa": "https://cdn.arrascacrf.site/logos/DISCOVERY/WORLD.png",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20WORD.png",
           "urls": {
             "fhd": "http://servidor/{user}/{pass}/92138.m3u8",
             "hd": "http://servidor/{user}/{pass}/92139.m3u8",
